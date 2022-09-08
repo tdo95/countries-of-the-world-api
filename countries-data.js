@@ -1,4 +1,4 @@
-exports.countries = {
+exports.countriesData = {
   "Afghanistan": {
     "countryName": "Afghanistan",
     "wikiLink": "https://en.wikipedia.org/wiki/Afghanistan",

@@ -4,21 +4,28 @@ const axios = require('axios');
 const fs = require('fs');
 const app = express();
 const PORT = 8000;
-const world = {
-    planet: 'Earth',
-    size: 'Large',
-}
+const { countriesData } = require('./countries-data.js')
+console.log(countriesData)
 
+//*******************************************************ROUTES */
+
+//GET REQUEST: returns html for home page
 app.get('/', (req,res) => {
     //__dirname tells the server where to go look for the HTML file
     res.sendFile(__dirname + '/index.html')
 });
 
+//GET REQUEST: returns entires that match query string
 app.get('/api/:name', (req, res) => {
     console.log(req.params.name)
     if (true) res.json(world);
-
 });
+
+//GET REQUEST: returns entire api
+app.get('/api', (req, res) => {
+    console.log('Sent ENTIRE API')
+    res.json(countriesData);
+})
 
 app.listen(process.env.PORT || PORT, () => {
     console.log(`Server now running on port ${PORT}`)
@@ -31,6 +38,7 @@ app.listen(process.env.PORT || PORT, () => {
 //stores list countries w/ thier data for API
 const countries = {};
 
+//UNCOMMENT TO SCAPE DATA FOR COUNTRIES
 scrapeData();
 
 async function scrapeData() {
@@ -174,7 +182,7 @@ async function fillInData() {
 }
 
 function writeDataIntoFile() {
-    fs.writeFile('countries-data.js', `exports.countries = ` + JSON.stringify(countries, null, 2),
+    fs.writeFile('countries-data.js', `exports.countriesData = ` + JSON.stringify(countries, null, 2),
     (err) => {
         if (err) console.log(err);
         else console.log('File Creation Successful!');
