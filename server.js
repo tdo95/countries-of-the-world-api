@@ -5,7 +5,6 @@ const fs = require('fs');
 const app = express();
 const PORT = 8000;
 const { countriesData } = require('./countries-data.js')
-console.log(countriesData)
 
 //*******************************************************ROUTES */
 
@@ -15,10 +14,14 @@ app.get('/', (req,res) => {
     res.sendFile(__dirname + '/index.html')
 });
 
-//GET REQUEST: returns entires that match query string
+//GET REQUEST: returns entires that match query string, returns an array of objects that match
 app.get('/api/:name', (req, res) => {
-    console.log(req.params.name)
-    if (true) res.json(world);
+    let matchingCountries = [];
+    const queryText = req.params.name.toLowerCase();
+    for (let name in countriesData) {
+        if (name.includes(queryText)) matchingCountries.push(countriesData[name]);
+    }
+    res.json(matchingCountries)
 });
 
 //GET REQUEST: returns entire api
@@ -39,7 +42,7 @@ app.listen(process.env.PORT || PORT, () => {
 const countries = {};
 
 //UNCOMMENT TO SCAPE DATA FOR COUNTRIES
-scrapeData();
+// scrapeData();
 
 async function scrapeData() {
     let done = await buildCountriesList();
