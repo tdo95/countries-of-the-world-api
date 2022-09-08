@@ -8,28 +8,27 @@ Countries of the World is an API that serves social and geographical information
 ###
 ![Demo Image Gif](#)
 
-## How it's made  🏗
-**Tech Used:** HTML, CSS, JavaScript, Node, Express, [Axios](https://www.npmjs.com/package/axios), [Cheerio](https://www.npmjs.com/package/cheerio)
-
-Data contained in the Countries of the World API was scraped from Wikipedia using the Axios and Cheerio modules. Data retained is stored in a file on server and used to serve information via the API endpoints.
-
 ## About the API
 All relevant information about the API such as countries available, endpints, and api properties can be found in the [documentation]()
 
-Some countires may not have all property data. Unavailable data properties are represented by an empty value e.g. empty `string` values are `''`, empty `array`values are `[]`.
+Some countires may not have all property data. Unavailable data properties are represented by an empty value. e.g. empty string values are `''`, empty arrayvalues are `[]`.
+
+## How it's made  🏗
+**Tech Used:** HTML, CSS, JavaScript, Node, Express, [Axios](https://www.npmjs.com/package/axios), [Cheerio](https://www.npmjs.com/package/cheerio)
+
+Data contained in the Countries of the World API was scraped from [Wikipedia](https://en.wikipedia.org/wiki/List_of_sovereign_states) using the Axios and Cheerio modules. Data retained is stored in a file on server and used to serve information via the API endpoints.
 
 ## Features 📱
 - Two Enpoints: string match, entire api collection
-- Ten data properties: capital, wikiLink, flag, gini, gdp, population, drivingSide, currency, countryName, officialLanguages
+- Ten data properties: `capital`, `wikiLink`, `flag`, `gini`, `gdp`, `population`, `drivingSide`, `currency`, `countryName`, `officialLanguages`
 
 ## Lessons Learned 🎖
 - How to use logic to traverse webpages with inconsistent document structures
 - Remove accent marks from text using the `normalize()` and `replace()` methods
 - Scrapping across sites without standardized document structures is difficult and ineffienct, should look into how to approach this effectively
 
-
 ## Future Improvements 📊
 - Add ISO and sign to currency property
-- Incoorporate pre-existing data in the [world-countries]() database
+- Incoorporate pre-existing data in the [world-countries](https://www.npmjs.com/package/world-countries) database
 - refractor `fillInData()` function into smaller parts for readability
 - clean up inputs for GDP and Population
