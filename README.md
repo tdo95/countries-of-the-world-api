@@ -9,9 +9,9 @@ Countries of the World is an API that serves social and geographical information
 ![Demo Image Gif](#)
 
 ## About the API
-All relevant information about the API such as countries available, endpints, and api properties can be found in the [documentation]()
+All relevant information about the API such as countries available, endpints, and api properties can be found in the [documentation]().
 
-Some countires may not have all property data. Unavailable data properties are represented by an empty value. e.g. empty string values are `''`, empty arrayvalues are `[]`.
+Some countires may not have all property data. Unavailable data properties are represented by an empty value. e.g. empty string values are `''`, empty array values are `[]`.
 
 ## How it's made  🏗
 **Tech Used:** HTML, CSS, JavaScript, Node, Express, [Axios](https://www.npmjs.com/package/axios), [Cheerio](https://www.npmjs.com/package/cheerio)
