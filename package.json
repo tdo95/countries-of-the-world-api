@@ -1,0 +1,26 @@
+{
+  "name": "countries",
+  "version": "1.0.0",
+  "description": "Ever wondered what side of the street people drive on in Brazil? Now you can get that interesting fact along with may others using Countries of the World API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tdo95/countries-of-the-world-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tdo95/countries-of-the-world-api/issues"
+  },
+  "homepage": "https://github.com/tdo95/countries-of-the-world-api#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cheerio": "^1.0.0-rc.12",
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19"
+  }
+}
