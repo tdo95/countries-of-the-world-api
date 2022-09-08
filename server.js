@@ -6,7 +6,8 @@ const app = express();
 const PORT = 8000;
 const { countriesData } = require('./countries-data.js')
 
-//*******************************************************ROUTES */
+///////////////////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////// ROUTES
 
 //GET REQUEST: returns html for home page
 app.get('/', (req,res) => {
@@ -21,12 +22,11 @@ app.get('/api/:name', (req, res) => {
     for (let name in countriesData) {
         if (name.includes(queryText)) matchingCountries.push(countriesData[name]);
     }
-    res.json(matchingCountries)
+    res.json(matchingCountries);
 });
 
 //GET REQUEST: returns entire api
 app.get('/api', (req, res) => {
-    console.log('Sent ENTIRE API')
     res.json(countriesData);
 })
 
@@ -41,15 +41,15 @@ app.listen(process.env.PORT || PORT, () => {
 //stores list countries w/ thier data for API
 const countries = {};
 
-//UNCOMMENT TO SCAPE DATA FOR COUNTRIES
+//UNCOMMENT FUNCTION TO SCAPE WIKIPEDIA FOR COUNTRIES DATA
+/* NOTE: Nodemon automatically restarts the server everytime a new file is created. 
+Be sure to kill the server as soon as file creation is complete then comment out the function to prevent server from continuously restarting and recreating the file */
+
 // scrapeData();
 
 async function scrapeData() {
     let done = await buildCountriesList();
-    // console.log(done, 'list is done building');
     let data = await fillInData(); 
-    // console.log(data, 'data has been filled');
-    // console.log(countries);
     writeDataIntoFile()
     console.log('SCRAPING COMPLETE!')
 }
@@ -176,7 +176,6 @@ async function fillInData() {
 
             //Check values for each property OR check completion
             console.log(country.countryName, '--->', 'done');
-          
         }
         
     } catch (error) {
