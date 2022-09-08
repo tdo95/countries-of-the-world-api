@@ -1,5 +1,5 @@
 exports.countriesData = {
-  "Afghanistan": {
+  "afghanistan": {
     "countryName": "Afghanistan",
     "wikiLink": "https://en.wikipedia.org/wiki/Afghanistan",
     "officialLanguages": [],
@@ -13,7 +13,7 @@ exports.countriesData = {
     "capital": "Kabul",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_the_Taliban.svg/125px-Flag_of_the_Taliban.svg.png"
   },
-  "Albania": {
+  "albania": {
     "countryName": "Albania",
     "wikiLink": "https://en.wikipedia.org/wiki/Albania",
     "officialLanguages": [
@@ -29,7 +29,7 @@ exports.countriesData = {
     "capital": "Tirana",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/125px-Flag_of_Albania.svg.png"
   },
-  "Algeria": {
+  "algeria": {
     "countryName": "Algeria",
     "wikiLink": "https://en.wikipedia.org/wiki/Algeria",
     "officialLanguages": [
@@ -46,7 +46,7 @@ exports.countriesData = {
     "capital": "Algiers",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/125px-Flag_of_Algeria.svg.png"
   },
-  "Andorra": {
+  "andorra": {
     "countryName": "Andorra",
     "wikiLink": "https://en.wikipedia.org/wiki/Andorra",
     "officialLanguages": [
@@ -60,7 +60,7 @@ exports.countriesData = {
     "capital": "Andorra la Vella",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Andorra.svg/125px-Flag_of_Andorra.svg.png"
   },
-  "Angola": {
+  "angola": {
     "countryName": "Angola",
     "wikiLink": "https://en.wikipedia.org/wiki/Angola",
     "officialLanguages": [
@@ -76,7 +76,7 @@ exports.countriesData = {
     "capital": "Luanda",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Angola.svg/125px-Flag_of_Angola.svg.png"
   },
-  "Antigua and Barbuda": {
+  "antigua and barbuda": {
     "countryName": "Antigua and Barbuda",
     "wikiLink": "https://en.wikipedia.org/wiki/Antigua_and_Barbuda",
     "officialLanguages": [],
@@ -90,7 +90,7 @@ exports.countriesData = {
     "capital": "St. John's",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_Antigua_and_Barbuda.svg/125px-Flag_of_Antigua_and_Barbuda.svg.png"
   },
-  "Argentina": {
+  "argentina": {
     "countryName": "Argentina",
     "wikiLink": "https://en.wikipedia.org/wiki/Argentina",
     "officialLanguages": [
@@ -106,7 +106,7 @@ exports.countriesData = {
     "capital": "Buenos Aires",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/125px-Flag_of_Argentina.svg.png"
   },
-  "Armenia": {
+  "armenia": {
     "countryName": "Armenia",
     "wikiLink": "https://en.wikipedia.org/wiki/Armenia",
     "officialLanguages": [
@@ -122,7 +122,7 @@ exports.countriesData = {
     "capital": "Yerevan",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_Armenia.svg/125px-Flag_of_Armenia.svg.png"
   },
-  "Australia": {
+  "australia": {
     "countryName": "Australia",
     "wikiLink": "https://en.wikipedia.org/wiki/Australia",
     "officialLanguages": [],
@@ -136,7 +136,7 @@ exports.countriesData = {
     "capital": "Canberra",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/125px-Flag_of_Australia_%28converted%29.svg.png"
   },
-  "Austria": {
+  "austria": {
     "countryName": "Austria",
     "wikiLink": "https://en.wikipedia.org/wiki/Austria",
     "officialLanguages": [
@@ -152,7 +152,7 @@ exports.countriesData = {
     "capital": "Vienna",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/125px-Flag_of_Austria.svg.png"
   },
-  "Azerbaijan": {
+  "azerbaijan": {
     "countryName": "Azerbaijan",
     "wikiLink": "https://en.wikipedia.org/wiki/Azerbaijan",
     "officialLanguages": [
@@ -168,7 +168,7 @@ exports.countriesData = {
     "capital": "Baku",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Azerbaijan.svg/125px-Flag_of_Azerbaijan.svg.png"
   },
-  "The Bahamas": {
+  "the bahamas": {
     "countryName": "The Bahamas",
     "wikiLink": "https://en.wikipedia.org/wiki/The_Bahamas",
     "officialLanguages": [
@@ -184,7 +184,7 @@ exports.countriesData = {
     "capital": "Nassau",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Flag_of_the_Bahamas.svg/125px-Flag_of_the_Bahamas.svg.png"
   },
-  "Bahrain": {
+  "bahrain": {
     "countryName": "Bahrain",
     "wikiLink": "https://en.wikipedia.org/wiki/Bahrain",
     "officialLanguages": [
@@ -200,7 +200,7 @@ exports.countriesData = {
     "capital": "Manama",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Bahrain.svg/125px-Flag_of_Bahrain.svg.png"
   },
-  "Bangladesh": {
+  "bangladesh": {
     "countryName": "Bangladesh",
     "wikiLink": "https://en.wikipedia.org/wiki/Bangladesh",
     "officialLanguages": [
@@ -216,7 +216,7 @@ exports.countriesData = {
     "capital": "Dhaka",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/125px-Flag_of_Bangladesh.svg.png"
   },
-  "Barbados": {
+  "barbados": {
     "countryName": "Barbados",
     "wikiLink": "https://en.wikipedia.org/wiki/Barbados",
     "officialLanguages": [
@@ -232,7 +232,7 @@ exports.countriesData = {
     "capital": "Bridgetown",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Flag_of_Barbados.svg/125px-Flag_of_Barbados.svg.png"
   },
-  "Belarus": {
+  "belarus": {
     "countryName": "Belarus",
     "wikiLink": "https://en.wikipedia.org/wiki/Belarus",
     "officialLanguages": [
@@ -249,7 +249,7 @@ exports.countriesData = {
     "capital": "Minsk",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Flag_of_Belarus.svg/125px-Flag_of_Belarus.svg.png"
   },
-  "Belgium": {
+  "belgium": {
     "countryName": "Belgium",
     "wikiLink": "https://en.wikipedia.org/wiki/Belgium",
     "officialLanguages": [
@@ -267,7 +267,7 @@ exports.countriesData = {
     "capital": "Brussels",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Belgium.svg/125px-Flag_of_Belgium.svg.png"
   },
-  "Belize": {
+  "belize": {
     "countryName": "Belize",
     "wikiLink": "https://en.wikipedia.org/wiki/Belize",
     "officialLanguages": [
@@ -283,7 +283,7 @@ exports.countriesData = {
     "capital": "Belmopan",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Flag_of_Belize.svg/125px-Flag_of_Belize.svg.png"
   },
-  "Benin": {
+  "benin": {
     "countryName": "Benin",
     "wikiLink": "https://en.wikipedia.org/wiki/Benin",
     "officialLanguages": [
@@ -299,7 +299,7 @@ exports.countriesData = {
     "capital": "Porto-Novo",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Benin.svg/125px-Flag_of_Benin.svg.png"
   },
-  "Bhutan": {
+  "bhutan": {
     "countryName": "Bhutan",
     "wikiLink": "https://en.wikipedia.org/wiki/Bhutan",
     "officialLanguages": [
@@ -315,7 +315,7 @@ exports.countriesData = {
     "capital": "Thimphu",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Flag_of_Bhutan.svg/125px-Flag_of_Bhutan.svg.png"
   },
-  "Bolivia": {
+  "bolivia": {
     "countryName": "Bolivia",
     "wikiLink": "https://en.wikipedia.org/wiki/Bolivia",
     "officialLanguages": [
@@ -335,7 +335,7 @@ exports.countriesData = {
     "capital": "La Paz",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Flag_of_Bolivia_%28state%29.svg/125px-Flag_of_Bolivia_%28state%29.svg.png"
   },
-  "Bosnia and Herzegovina": {
+  "bosnia and herzegovina": {
     "countryName": "Bosnia and Herzegovina",
     "wikiLink": "https://en.wikipedia.org/wiki/Bosnia_and_Herzegovina",
     "officialLanguages": [
@@ -353,7 +353,7 @@ exports.countriesData = {
     "capital": "Sarajevo",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/125px-Flag_of_Bosnia_and_Herzegovina.svg.png"
   },
-  "Botswana": {
+  "botswana": {
     "countryName": "Botswana",
     "wikiLink": "https://en.wikipedia.org/wiki/Botswana",
     "officialLanguages": [
@@ -369,7 +369,7 @@ exports.countriesData = {
     "capital": "Gaborone",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_Botswana.svg/125px-Flag_of_Botswana.svg.png"
   },
-  "Brazil": {
+  "brazil": {
     "countryName": "Brazil",
     "wikiLink": "https://en.wikipedia.org/wiki/Brazil",
     "officialLanguages": [
@@ -385,7 +385,7 @@ exports.countriesData = {
     "capital": "Brasília",
     "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/125px-Flag_of_Brazil.svg.png"
   },
-  "Brunei": {
+  "brunei": {
     "countryName": "Brunei",
     "wikiLink": "https://en.wikipedia.org/wiki/Brunei",
     "officialLanguages": [
@@ -401,7 +401,7 @@ exports.countriesData = {
     "capital": "Bandar Seri Begawan",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Brunei.svg/125px-Flag_of_Brunei.svg.png"
   },
-  "Bulgaria": {
+  "bulgaria": {
     "countryName": "Bulgaria",
     "wikiLink": "https://en.wikipedia.org/wiki/Bulgaria",
     "officialLanguages": [
@@ -417,7 +417,7 @@ exports.countriesData = {
     "capital": "Sofia",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/125px-Flag_of_Bulgaria.svg.png"
   },
-  "Burkina Faso": {
+  "burkina faso": {
     "countryName": "Burkina Faso",
     "wikiLink": "https://en.wikipedia.org/wiki/Burkina_Faso",
     "officialLanguages": [
@@ -433,7 +433,7 @@ exports.countriesData = {
     "capital": "Ouagadougou",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Burkina_Faso.svg/125px-Flag_of_Burkina_Faso.svg.png"
   },
-  "Burundi": {
+  "burundi": {
     "countryName": "Burundi",
     "wikiLink": "https://en.wikipedia.org/wiki/Burundi",
     "officialLanguages": [
@@ -451,7 +451,7 @@ exports.countriesData = {
     "capital": "Gitega",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Flag_of_Burundi.svg/125px-Flag_of_Burundi.svg.png"
   },
-  "Cambodia": {
+  "cambodia": {
     "countryName": "Cambodia",
     "wikiLink": "https://en.wikipedia.org/wiki/Cambodia",
     "officialLanguages": [
@@ -467,7 +467,7 @@ exports.countriesData = {
     "capital": "Phnom Penh",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_Cambodia.svg/125px-Flag_of_Cambodia.svg.png"
   },
-  "Cameroon": {
+  "cameroon": {
     "countryName": "Cameroon",
     "wikiLink": "https://en.wikipedia.org/wiki/Cameroon",
     "officialLanguages": [
@@ -484,7 +484,7 @@ exports.countriesData = {
     "capital": "Yaoundé",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Cameroon.svg/125px-Flag_of_Cameroon.svg.png"
   },
-  "Canada": {
+  "canada": {
     "countryName": "Canada",
     "wikiLink": "https://en.wikipedia.org/wiki/Canada",
     "officialLanguages": [
@@ -501,7 +501,7 @@ exports.countriesData = {
     "capital": "Ottawa",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/125px-Flag_of_Canada_%28Pantone%29.svg.png"
   },
-  "Cape Verde": {
+  "cape verde": {
     "countryName": "Cape Verde",
     "wikiLink": "https://en.wikipedia.org/wiki/Cape_Verde",
     "officialLanguages": [
@@ -517,7 +517,7 @@ exports.countriesData = {
     "capital": "Praia",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Cape_Verde.svg/125px-Flag_of_Cape_Verde.svg.png"
   },
-  "Central African Republic": {
+  "central african republic": {
     "countryName": "Central African Republic",
     "wikiLink": "https://en.wikipedia.org/wiki/Central_African_Republic",
     "officialLanguages": [
@@ -534,7 +534,7 @@ exports.countriesData = {
     "capital": "Bangui",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Central_African_Republic.svg/125px-Flag_of_the_Central_African_Republic.svg.png"
   },
-  "Chad": {
+  "chad": {
     "countryName": "Chad",
     "wikiLink": "https://en.wikipedia.org/wiki/Chad",
     "officialLanguages": [
@@ -551,7 +551,7 @@ exports.countriesData = {
     "capital": "N'Djamena",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Flag_of_Chad.svg/125px-Flag_of_Chad.svg.png"
   },
-  "Chile": {
+  "chile": {
     "countryName": "Chile",
     "wikiLink": "https://en.wikipedia.org/wiki/Chile",
     "officialLanguages": [],
@@ -565,7 +565,7 @@ exports.countriesData = {
     "capital": "Santiago",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/125px-Flag_of_Chile.svg.png"
   },
-  "China": {
+  "china": {
     "countryName": "China",
     "wikiLink": "https://en.wikipedia.org/wiki/China",
     "officialLanguages": [
@@ -581,7 +581,7 @@ exports.countriesData = {
     "capital": "Beijing",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/125px-Flag_of_the_People%27s_Republic_of_China.svg.png"
   },
-  "Colombia": {
+  "colombia": {
     "countryName": "Colombia",
     "wikiLink": "https://en.wikipedia.org/wiki/Colombia",
     "officialLanguages": [
@@ -597,7 +597,7 @@ exports.countriesData = {
     "capital": "Bogotá",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/125px-Flag_of_Colombia.svg.png"
   },
-  "Comoros": {
+  "comoros": {
     "countryName": "Comoros",
     "wikiLink": "https://en.wikipedia.org/wiki/Comoros",
     "officialLanguages": [
@@ -615,7 +615,7 @@ exports.countriesData = {
     "capital": "Moroni",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Flag_of_the_Comoros.svg/125px-Flag_of_the_Comoros.svg.png"
   },
-  "Democratic Republic of the Congo": {
+  "democratic republic of the congo": {
     "countryName": "Democratic Republic of the Congo",
     "wikiLink": "https://en.wikipedia.org/wiki/Democratic_Republic_of_the_Congo",
     "officialLanguages": [
@@ -631,7 +631,7 @@ exports.countriesData = {
     "capital": "Kinshasa",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/125px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png"
   },
-  "Republic of the Congo": {
+  "republic of the congo": {
     "countryName": "Republic of the Congo",
     "wikiLink": "https://en.wikipedia.org/wiki/Republic_of_the_Congo",
     "officialLanguages": [
@@ -647,7 +647,7 @@ exports.countriesData = {
     "capital": "Brazzaville",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_the_Republic_of_the_Congo.svg/125px-Flag_of_the_Republic_of_the_Congo.svg.png"
   },
-  "Costa Rica": {
+  "costa rica": {
     "countryName": "Costa Rica",
     "wikiLink": "https://en.wikipedia.org/wiki/Costa_Rica",
     "officialLanguages": [
@@ -663,7 +663,7 @@ exports.countriesData = {
     "capital": "San José",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/125px-Flag_of_Costa_Rica.svg.png"
   },
-  "Croatia": {
+  "croatia": {
     "countryName": "Croatia",
     "wikiLink": "https://en.wikipedia.org/wiki/Croatia",
     "officialLanguages": [
@@ -679,7 +679,7 @@ exports.countriesData = {
     "capital": "Zagreb",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/125px-Flag_of_Croatia.svg.png"
   },
-  "Cuba": {
+  "cuba": {
     "countryName": "Cuba",
     "wikiLink": "https://en.wikipedia.org/wiki/Cuba",
     "officialLanguages": [
@@ -695,7 +695,7 @@ exports.countriesData = {
     "capital": "Havana",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Flag_of_Cuba.svg/125px-Flag_of_Cuba.svg.png"
   },
-  "Cyprus": {
+  "cyprus": {
     "countryName": "Cyprus",
     "wikiLink": "https://en.wikipedia.org/wiki/Cyprus",
     "officialLanguages": [
@@ -712,7 +712,7 @@ exports.countriesData = {
     "capital": "Nicosia",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Cyprus.svg/125px-Flag_of_Cyprus.svg.png"
   },
-  "Czech Republic": {
+  "czech republic": {
     "countryName": "Czech Republic",
     "wikiLink": "https://en.wikipedia.org/wiki/Czech_Republic",
     "officialLanguages": [
@@ -739,7 +739,7 @@ exports.countriesData = {
     "capital": "Prague",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/125px-Flag_of_the_Czech_Republic.svg.png"
   },
-  "Denmark": {
+  "denmark": {
     "countryName": "Denmark",
     "wikiLink": "https://en.wikipedia.org/wiki/Denmark",
     "officialLanguages": [],
@@ -751,7 +751,7 @@ exports.countriesData = {
     "capital": "",
     "flag": "https:undefined"
   },
-  "Djibouti": {
+  "djibouti": {
     "countryName": "Djibouti",
     "wikiLink": "https://en.wikipedia.org/wiki/Djibouti",
     "officialLanguages": [
@@ -768,7 +768,7 @@ exports.countriesData = {
     "capital": "Djibouti",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_Djibouti.svg/125px-Flag_of_Djibouti.svg.png"
   },
-  "Dominica": {
+  "dominica": {
     "countryName": "Dominica",
     "wikiLink": "https://en.wikipedia.org/wiki/Dominica",
     "officialLanguages": [
@@ -784,7 +784,7 @@ exports.countriesData = {
     "capital": "Roseau",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Flag_of_Dominica.svg/125px-Flag_of_Dominica.svg.png"
   },
-  "Dominican Republic": {
+  "dominican republic": {
     "countryName": "Dominican Republic",
     "wikiLink": "https://en.wikipedia.org/wiki/Dominican_Republic",
     "officialLanguages": [
@@ -800,7 +800,7 @@ exports.countriesData = {
     "capital": "Santo Domingo",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_the_Dominican_Republic.svg/125px-Flag_of_the_Dominican_Republic.svg.png"
   },
-  "East Timor": {
+  "east timor": {
     "countryName": "East Timor",
     "wikiLink": "https://en.wikipedia.org/wiki/East_Timor",
     "officialLanguages": [
@@ -817,7 +817,7 @@ exports.countriesData = {
     "capital": "Dili",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Flag_of_East_Timor.svg/125px-Flag_of_East_Timor.svg.png"
   },
-  "Ecuador": {
+  "ecuador": {
     "countryName": "Ecuador",
     "wikiLink": "https://en.wikipedia.org/wiki/Ecuador",
     "officialLanguages": [
@@ -833,7 +833,7 @@ exports.countriesData = {
     "capital": "Quito",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/125px-Flag_of_Ecuador.svg.png"
   },
-  "Egypt": {
+  "egypt": {
     "countryName": "Egypt",
     "wikiLink": "https://en.wikipedia.org/wiki/Egypt",
     "officialLanguages": [
@@ -849,7 +849,7 @@ exports.countriesData = {
     "capital": "Cairo",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/125px-Flag_of_Egypt.svg.png"
   },
-  "El Salvador": {
+  "el salvador": {
     "countryName": "El Salvador",
     "wikiLink": "https://en.wikipedia.org/wiki/El_Salvador",
     "officialLanguages": [
@@ -865,7 +865,7 @@ exports.countriesData = {
     "capital": "San Salvador",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_El_Salvador.svg/125px-Flag_of_El_Salvador.svg.png"
   },
-  "Equatorial Guinea": {
+  "equatorial guinea": {
     "countryName": "Equatorial Guinea",
     "wikiLink": "https://en.wikipedia.org/wiki/Equatorial_Guinea",
     "officialLanguages": [
@@ -883,7 +883,7 @@ exports.countriesData = {
     "capital": "Malabo",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Equatorial_Guinea.svg/125px-Flag_of_Equatorial_Guinea.svg.png"
   },
-  "Eritrea": {
+  "eritrea": {
     "countryName": "Eritrea",
     "wikiLink": "https://en.wikipedia.org/wiki/Eritrea",
     "officialLanguages": [],
@@ -897,7 +897,7 @@ exports.countriesData = {
     "capital": "Asmara",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Flag_of_Eritrea.svg/125px-Flag_of_Eritrea.svg.png"
   },
-  "Estonia": {
+  "estonia": {
     "countryName": "Estonia",
     "wikiLink": "https://en.wikipedia.org/wiki/Estonia",
     "officialLanguages": [
@@ -913,7 +913,7 @@ exports.countriesData = {
     "capital": "Tallinn",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flag_of_Estonia.svg/125px-Flag_of_Estonia.svg.png"
   },
-  "Eswatini": {
+  "eswatini": {
     "countryName": "Eswatini",
     "wikiLink": "https://en.wikipedia.org/wiki/Eswatini",
     "officialLanguages": [
@@ -930,7 +930,7 @@ exports.countriesData = {
     "capital": "Mbabane",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Flag_of_Eswatini.svg/125px-Flag_of_Eswatini.svg.png"
   },
-  "Ethiopia": {
+  "ethiopia": {
     "countryName": "Ethiopia",
     "wikiLink": "https://en.wikipedia.org/wiki/Ethiopia",
     "officialLanguages": [
@@ -950,7 +950,7 @@ exports.countriesData = {
     "capital": "Addis Ababa",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Flag_of_Ethiopia.svg/125px-Flag_of_Ethiopia.svg.png"
   },
-  "Fiji": {
+  "fiji": {
     "countryName": "Fiji",
     "wikiLink": "https://en.wikipedia.org/wiki/Fiji",
     "officialLanguages": [
@@ -968,7 +968,7 @@ exports.countriesData = {
     "capital": "Suva",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Fiji.svg/125px-Flag_of_Fiji.svg.png"
   },
-  "Finland": {
+  "finland": {
     "countryName": "Finland",
     "wikiLink": "https://en.wikipedia.org/wiki/Finland",
     "officialLanguages": [
@@ -985,7 +985,7 @@ exports.countriesData = {
     "capital": "Helsinki",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/125px-Flag_of_Finland.svg.png"
   },
-  "France": {
+  "france": {
     "countryName": "France",
     "wikiLink": "https://en.wikipedia.org/wiki/France",
     "officialLanguages": [
@@ -1001,7 +1001,7 @@ exports.countriesData = {
     "capital": "Paris",
     "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/125px-Flag_of_France.svg.png"
   },
-  "Gabon": {
+  "gabon": {
     "countryName": "Gabon",
     "wikiLink": "https://en.wikipedia.org/wiki/Gabon",
     "officialLanguages": [
@@ -1017,7 +1017,7 @@ exports.countriesData = {
     "capital": "Libreville",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Flag_of_Gabon.svg/125px-Flag_of_Gabon.svg.png"
   },
-  "The Gambia": {
+  "the gambia": {
     "countryName": "The Gambia",
     "wikiLink": "https://en.wikipedia.org/wiki/The_Gambia",
     "officialLanguages": [
@@ -1033,7 +1033,7 @@ exports.countriesData = {
     "capital": "Banjul",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_The_Gambia.svg/125px-Flag_of_The_Gambia.svg.png"
   },
-  "Georgia (country)": {
+  "georgia (country)": {
     "countryName": "Georgia (country)",
     "wikiLink": "https://en.wikipedia.org/wiki/Georgia_(country)",
     "officialLanguages": [
@@ -1049,7 +1049,7 @@ exports.countriesData = {
     "capital": "Tbilisi",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Georgia.svg/125px-Flag_of_Georgia.svg.png"
   },
-  "Germany": {
+  "germany": {
     "countryName": "Germany",
     "wikiLink": "https://en.wikipedia.org/wiki/Germany",
     "officialLanguages": [
@@ -1065,7 +1065,7 @@ exports.countriesData = {
     "capital": "Berlin",
     "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/125px-Flag_of_Germany.svg.png"
   },
-  "Ghana": {
+  "ghana": {
     "countryName": "Ghana",
     "wikiLink": "https://en.wikipedia.org/wiki/Ghana",
     "officialLanguages": [
@@ -1081,7 +1081,7 @@ exports.countriesData = {
     "capital": "Accra",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Ghana.svg/125px-Flag_of_Ghana.svg.png"
   },
-  "Greece": {
+  "greece": {
     "countryName": "Greece",
     "wikiLink": "https://en.wikipedia.org/wiki/Greece",
     "officialLanguages": [
@@ -1097,7 +1097,7 @@ exports.countriesData = {
     "capital": "Athens",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/125px-Flag_of_Greece.svg.png"
   },
-  "Grenada": {
+  "grenada": {
     "countryName": "Grenada",
     "wikiLink": "https://en.wikipedia.org/wiki/Grenada",
     "officialLanguages": [
@@ -1113,7 +1113,7 @@ exports.countriesData = {
     "capital": "St. George's",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Grenada.svg/125px-Flag_of_Grenada.svg.png"
   },
-  "Guatemala": {
+  "guatemala": {
     "countryName": "Guatemala",
     "wikiLink": "https://en.wikipedia.org/wiki/Guatemala",
     "officialLanguages": [
@@ -1129,7 +1129,7 @@ exports.countriesData = {
     "capital": "Guatemala City",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Flag_of_Guatemala.svg/125px-Flag_of_Guatemala.svg.png"
   },
-  "Guinea": {
+  "guinea": {
     "countryName": "Guinea",
     "wikiLink": "https://en.wikipedia.org/wiki/Guinea",
     "officialLanguages": [
@@ -1145,7 +1145,7 @@ exports.countriesData = {
     "capital": "Conakry",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Flag_of_Guinea.svg/125px-Flag_of_Guinea.svg.png"
   },
-  "Guinea-Bissau": {
+  "guinea-bissau": {
     "countryName": "Guinea-Bissau",
     "wikiLink": "https://en.wikipedia.org/wiki/Guinea-Bissau",
     "officialLanguages": [
@@ -1161,7 +1161,7 @@ exports.countriesData = {
     "capital": "Bissau",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Guinea-Bissau.svg/125px-Flag_of_Guinea-Bissau.svg.png"
   },
-  "Guyana": {
+  "guyana": {
     "countryName": "Guyana",
     "wikiLink": "https://en.wikipedia.org/wiki/Guyana",
     "officialLanguages": [
@@ -1177,7 +1177,7 @@ exports.countriesData = {
     "capital": "Georgetown",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_Guyana.svg/125px-Flag_of_Guyana.svg.png"
   },
-  "Haiti": {
+  "haiti": {
     "countryName": "Haiti",
     "wikiLink": "https://en.wikipedia.org/wiki/Haiti",
     "officialLanguages": [
@@ -1194,7 +1194,7 @@ exports.countriesData = {
     "capital": "Port-au-Prince",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Haiti.svg/125px-Flag_of_Haiti.svg.png"
   },
-  "Honduras": {
+  "honduras": {
     "countryName": "Honduras",
     "wikiLink": "https://en.wikipedia.org/wiki/Honduras",
     "officialLanguages": [
@@ -1210,7 +1210,7 @@ exports.countriesData = {
     "capital": "Tegucigalpa",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Flag_of_Honduras.svg/125px-Flag_of_Honduras.svg.png"
   },
-  "Hungary": {
+  "hungary": {
     "countryName": "Hungary",
     "wikiLink": "https://en.wikipedia.org/wiki/Hungary",
     "officialLanguages": [
@@ -1226,7 +1226,7 @@ exports.countriesData = {
     "capital": "Budapest",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/125px-Flag_of_Hungary.svg.png"
   },
-  "Iceland": {
+  "iceland": {
     "countryName": "Iceland",
     "wikiLink": "https://en.wikipedia.org/wiki/Iceland",
     "officialLanguages": [
@@ -1242,7 +1242,7 @@ exports.countriesData = {
     "capital": "Reykjavík",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Iceland.svg/125px-Flag_of_Iceland.svg.png"
   },
-  "India": {
+  "india": {
     "countryName": "India",
     "wikiLink": "https://en.wikipedia.org/wiki/India",
     "officialLanguages": [
@@ -1259,7 +1259,7 @@ exports.countriesData = {
     "capital": "New Delhi",
     "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/125px-Flag_of_India.svg.png"
   },
-  "Indonesia": {
+  "indonesia": {
     "countryName": "Indonesia",
     "wikiLink": "https://en.wikipedia.org/wiki/Indonesia",
     "officialLanguages": [
@@ -1275,7 +1275,7 @@ exports.countriesData = {
     "capital": "Jakarta",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/125px-Flag_of_Indonesia.svg.png"
   },
-  "Iran": {
+  "iran": {
     "countryName": "Iran",
     "wikiLink": "https://en.wikipedia.org/wiki/Iran",
     "officialLanguages": [
@@ -1291,7 +1291,7 @@ exports.countriesData = {
     "capital": "Tehran",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/125px-Flag_of_Iran.svg.png"
   },
-  "Iraq": {
+  "iraq": {
     "countryName": "Iraq",
     "wikiLink": "https://en.wikipedia.org/wiki/Iraq",
     "officialLanguages": [
@@ -1308,7 +1308,7 @@ exports.countriesData = {
     "capital": "Baghdad",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Iraq.svg/125px-Flag_of_Iraq.svg.png"
   },
-  "Republic of Ireland": {
+  "republic of ireland": {
     "countryName": "Republic of Ireland",
     "wikiLink": "https://en.wikipedia.org/wiki/Republic_of_Ireland",
     "officialLanguages": [
@@ -1325,7 +1325,7 @@ exports.countriesData = {
     "capital": "Dublin",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/125px-Flag_of_Ireland.svg.png"
   },
-  "Israel": {
+  "israel": {
     "countryName": "Israel",
     "wikiLink": "https://en.wikipedia.org/wiki/Israel",
     "officialLanguages": [
@@ -1341,7 +1341,7 @@ exports.countriesData = {
     "capital": "Jerusalem",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/125px-Flag_of_Israel.svg.png"
   },
-  "Italy": {
+  "italy": {
     "countryName": "Italy",
     "wikiLink": "https://en.wikipedia.org/wiki/Italy",
     "officialLanguages": [
@@ -1357,7 +1357,7 @@ exports.countriesData = {
     "capital": "Rome",
     "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/125px-Flag_of_Italy.svg.png"
   },
-  "Ivory Coast": {
+  "ivory coast": {
     "countryName": "Ivory Coast",
     "wikiLink": "https://en.wikipedia.org/wiki/Ivory_Coast",
     "officialLanguages": [
@@ -1373,7 +1373,7 @@ exports.countriesData = {
     "capital": "Yamoussoukro",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/125px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png"
   },
-  "Jamaica": {
+  "jamaica": {
     "countryName": "Jamaica",
     "wikiLink": "https://en.wikipedia.org/wiki/Jamaica",
     "officialLanguages": [
@@ -1389,7 +1389,7 @@ exports.countriesData = {
     "capital": "Kingston",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Jamaica.svg/125px-Flag_of_Jamaica.svg.png"
   },
-  "Japan": {
+  "japan": {
     "countryName": "Japan",
     "wikiLink": "https://en.wikipedia.org/wiki/Japan",
     "officialLanguages": [],
@@ -1403,7 +1403,7 @@ exports.countriesData = {
     "capital": "Tokyo",
     "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/125px-Flag_of_Japan.svg.png"
   },
-  "Jordan": {
+  "jordan": {
     "countryName": "Jordan",
     "wikiLink": "https://en.wikipedia.org/wiki/Jordan",
     "officialLanguages": [
@@ -1419,7 +1419,7 @@ exports.countriesData = {
     "capital": "Amman",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Flag_of_Jordan.svg/125px-Flag_of_Jordan.svg.png"
   },
-  "Kazakhstan": {
+  "kazakhstan": {
     "countryName": "Kazakhstan",
     "wikiLink": "https://en.wikipedia.org/wiki/Kazakhstan",
     "officialLanguages": [
@@ -1435,7 +1435,7 @@ exports.countriesData = {
     "capital": "Nur-Sultan",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/135px-Flag_of_Kazakhstan.svg.png"
   },
-  "Kenya": {
+  "kenya": {
     "countryName": "Kenya",
     "wikiLink": "https://en.wikipedia.org/wiki/Kenya",
     "officialLanguages": [
@@ -1452,7 +1452,7 @@ exports.countriesData = {
     "capital": "Nairobi",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Kenya.svg/125px-Flag_of_Kenya.svg.png"
   },
-  "Kiribati": {
+  "kiribati": {
     "countryName": "Kiribati",
     "wikiLink": "https://en.wikipedia.org/wiki/Kiribati",
     "officialLanguages": [
@@ -1464,12 +1464,12 @@ exports.countriesData = {
       "pppTotal": "$255 million"
     },
     "gini": "",
-    "currency": "Australian dollar",
+    "currency": "[10]",
     "drivingSide": "left",
     "capital": "South Tarawa",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kiribati.svg/125px-Flag_of_Kiribati.svg.png"
   },
-  "North Korea": {
+  "north korea": {
     "countryName": "North Korea",
     "wikiLink": "https://en.wikipedia.org/wiki/North_Korea",
     "officialLanguages": [
@@ -1486,7 +1486,7 @@ exports.countriesData = {
     "capital": "Pyongyang",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Flag_of_North_Korea.svg/125px-Flag_of_North_Korea.svg.png"
   },
-  "South Korea": {
+  "south korea": {
     "countryName": "South Korea",
     "wikiLink": "https://en.wikipedia.org/wiki/South_Korea",
     "officialLanguages": [
@@ -1504,7 +1504,7 @@ exports.countriesData = {
     "capital": "Seoul",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/125px-Flag_of_South_Korea.svg.png"
   },
-  "Kuwait": {
+  "kuwait": {
     "countryName": "Kuwait",
     "wikiLink": "https://en.wikipedia.org/wiki/Kuwait",
     "officialLanguages": [
@@ -1520,7 +1520,7 @@ exports.countriesData = {
     "capital": "Kuwait City",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Flag_of_Kuwait.svg/125px-Flag_of_Kuwait.svg.png"
   },
-  "Kyrgyzstan": {
+  "kyrgyzstan": {
     "countryName": "Kyrgyzstan",
     "wikiLink": "https://en.wikipedia.org/wiki/Kyrgyzstan",
     "officialLanguages": [
@@ -1537,7 +1537,7 @@ exports.countriesData = {
     "capital": "Bishkek",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Flag_of_Kyrgyzstan.svg/125px-Flag_of_Kyrgyzstan.svg.png"
   },
-  "Laos": {
+  "laos": {
     "countryName": "Laos",
     "wikiLink": "https://en.wikipedia.org/wiki/Laos",
     "officialLanguages": [
@@ -1553,7 +1553,7 @@ exports.countriesData = {
     "capital": "Vientiane",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Laos.svg/125px-Flag_of_Laos.svg.png"
   },
-  "Latvia": {
+  "latvia": {
     "countryName": "Latvia",
     "wikiLink": "https://en.wikipedia.org/wiki/Latvia",
     "officialLanguages": [
@@ -1569,7 +1569,7 @@ exports.countriesData = {
     "capital": "Riga",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Latvia.svg/125px-Flag_of_Latvia.svg.png"
   },
-  "Lebanon": {
+  "lebanon": {
     "countryName": "Lebanon",
     "wikiLink": "https://en.wikipedia.org/wiki/Lebanon",
     "officialLanguages": [
@@ -1585,7 +1585,7 @@ exports.countriesData = {
     "capital": "Beirut",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Flag_of_Lebanon.svg/125px-Flag_of_Lebanon.svg.png"
   },
-  "Lesotho": {
+  "lesotho": {
     "countryName": "Lesotho",
     "wikiLink": "https://en.wikipedia.org/wiki/Lesotho",
     "officialLanguages": [
@@ -1602,7 +1602,7 @@ exports.countriesData = {
     "capital": "Maseru",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Flag_of_Lesotho.svg/125px-Flag_of_Lesotho.svg.png"
   },
-  "Liberia": {
+  "liberia": {
     "countryName": "Liberia",
     "wikiLink": "https://en.wikipedia.org/wiki/Liberia",
     "officialLanguages": [
@@ -1618,7 +1618,7 @@ exports.countriesData = {
     "capital": "Monrovia",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Flag_of_Liberia.svg/125px-Flag_of_Liberia.svg.png"
   },
-  "Libya": {
+  "libya": {
     "countryName": "Libya",
     "wikiLink": "https://en.wikipedia.org/wiki/Libya",
     "officialLanguages": [
@@ -1634,7 +1634,7 @@ exports.countriesData = {
     "capital": "Tripoli",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Libya.svg/125px-Flag_of_Libya.svg.png"
   },
-  "Liechtenstein": {
+  "liechtenstein": {
     "countryName": "Liechtenstein",
     "wikiLink": "https://en.wikipedia.org/wiki/Liechtenstein",
     "officialLanguages": [
@@ -1650,7 +1650,7 @@ exports.countriesData = {
     "capital": "Vaduz",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Flag_of_Liechtenstein.svg/125px-Flag_of_Liechtenstein.svg.png"
   },
-  "Lithuania": {
+  "lithuania": {
     "countryName": "Lithuania",
     "wikiLink": "https://en.wikipedia.org/wiki/Lithuania",
     "officialLanguages": [
@@ -1666,7 +1666,7 @@ exports.countriesData = {
     "capital": "Vilnius",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Lithuania.svg/125px-Flag_of_Lithuania.svg.png"
   },
-  "Luxembourg": {
+  "luxembourg": {
     "countryName": "Luxembourg",
     "wikiLink": "https://en.wikipedia.org/wiki/Luxembourg",
     "officialLanguages": [],
@@ -1680,7 +1680,7 @@ exports.countriesData = {
     "capital": "Luxembourg",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Luxembourg.svg/125px-Flag_of_Luxembourg.svg.png"
   },
-  "Madagascar": {
+  "madagascar": {
     "countryName": "Madagascar",
     "wikiLink": "https://en.wikipedia.org/wiki/Madagascar",
     "officialLanguages": [
@@ -1697,7 +1697,7 @@ exports.countriesData = {
     "capital": "Antananarivo",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Madagascar.svg/125px-Flag_of_Madagascar.svg.png"
   },
-  "Malawi": {
+  "malawi": {
     "countryName": "Malawi",
     "wikiLink": "https://en.wikipedia.org/wiki/Malawi",
     "officialLanguages": [
@@ -1714,7 +1714,7 @@ exports.countriesData = {
     "capital": "Lilongwe",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Flag_of_Malawi.svg/125px-Flag_of_Malawi.svg.png"
   },
-  "Malaysia": {
+  "malaysia": {
     "countryName": "Malaysia",
     "wikiLink": "https://en.wikipedia.org/wiki/Malaysia",
     "officialLanguages": [
@@ -1730,7 +1730,7 @@ exports.countriesData = {
     "capital": "Putrajaya",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Flag_of_Malaysia.svg/125px-Flag_of_Malaysia.svg.png"
   },
-  "Maldives": {
+  "maldives": {
     "countryName": "Maldives",
     "wikiLink": "https://en.wikipedia.org/wiki/Maldives",
     "officialLanguages": [
@@ -1746,7 +1746,7 @@ exports.countriesData = {
     "capital": "Malé",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Maldives.svg/125px-Flag_of_Maldives.svg.png"
   },
-  "Mali": {
+  "mali": {
     "countryName": "Mali",
     "wikiLink": "https://en.wikipedia.org/wiki/Mali",
     "officialLanguages": [
@@ -1762,7 +1762,7 @@ exports.countriesData = {
     "capital": "Bamako",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Mali.svg/125px-Flag_of_Mali.svg.png"
   },
-  "Malta": {
+  "malta": {
     "countryName": "Malta",
     "wikiLink": "https://en.wikipedia.org/wiki/Malta",
     "officialLanguages": [
@@ -1779,7 +1779,7 @@ exports.countriesData = {
     "capital": "Valletta",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Malta.svg/125px-Flag_of_Malta.svg.png"
   },
-  "Marshall Islands": {
+  "marshall islands": {
     "countryName": "Marshall Islands",
     "wikiLink": "https://en.wikipedia.org/wiki/Marshall_Islands",
     "officialLanguages": [
@@ -1796,7 +1796,7 @@ exports.countriesData = {
     "capital": "Delap-Uliga-Djarrit",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flag_of_the_Marshall_Islands.svg/125px-Flag_of_the_Marshall_Islands.svg.png"
   },
-  "Mauritania": {
+  "mauritania": {
     "countryName": "Mauritania",
     "wikiLink": "https://en.wikipedia.org/wiki/Mauritania",
     "officialLanguages": [
@@ -1812,7 +1812,7 @@ exports.countriesData = {
     "capital": "Nouakchott",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Flag_of_Mauritania.svg/125px-Flag_of_Mauritania.svg.png"
   },
-  "Mauritius": {
+  "mauritius": {
     "countryName": "Mauritius",
     "wikiLink": "https://en.wikipedia.org/wiki/Mauritius",
     "officialLanguages": [],
@@ -1826,7 +1826,7 @@ exports.countriesData = {
     "capital": "Port Louis",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Mauritius.svg/125px-Flag_of_Mauritius.svg.png"
   },
-  "Mexico": {
+  "mexico": {
     "countryName": "Mexico",
     "wikiLink": "https://en.wikipedia.org/wiki/Mexico",
     "officialLanguages": [],
@@ -1840,7 +1840,7 @@ exports.countriesData = {
     "capital": "Mexico City",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/125px-Flag_of_Mexico.svg.png"
   },
-  "Federated States of Micronesia": {
+  "federated states of micronesia": {
     "countryName": "Federated States of Micronesia",
     "wikiLink": "https://en.wikipedia.org/wiki/Federated_States_of_Micronesia",
     "officialLanguages": [
@@ -1856,7 +1856,7 @@ exports.countriesData = {
     "capital": "Palikir",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Flag_of_the_Federated_States_of_Micronesia.svg/125px-Flag_of_the_Federated_States_of_Micronesia.svg.png"
   },
-  "Moldova": {
+  "moldova": {
     "countryName": "Moldova",
     "wikiLink": "https://en.wikipedia.org/wiki/Moldova",
     "officialLanguages": [
@@ -1873,7 +1873,7 @@ exports.countriesData = {
     "capital": "Chișinău",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Moldova.svg/125px-Flag_of_Moldova.svg.png"
   },
-  "Monaco": {
+  "monaco": {
     "countryName": "Monaco",
     "wikiLink": "https://en.wikipedia.org/wiki/Monaco",
     "officialLanguages": [
@@ -1889,7 +1889,7 @@ exports.countriesData = {
     "capital": "Monaco",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Flag_of_Monaco.svg/125px-Flag_of_Monaco.svg.png"
   },
-  "Mongolia": {
+  "mongolia": {
     "countryName": "Mongolia",
     "wikiLink": "https://en.wikipedia.org/wiki/Mongolia",
     "officialLanguages": [
@@ -1905,7 +1905,7 @@ exports.countriesData = {
     "capital": "Ulaanbaatar",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Mongolia.svg/125px-Flag_of_Mongolia.svg.png"
   },
-  "Montenegro": {
+  "montenegro": {
     "countryName": "Montenegro",
     "wikiLink": "https://en.wikipedia.org/wiki/Montenegro",
     "officialLanguages": [
@@ -1921,7 +1921,7 @@ exports.countriesData = {
     "capital": "Podgorica",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Montenegro.svg/125px-Flag_of_Montenegro.svg.png"
   },
-  "Morocco": {
+  "morocco": {
     "countryName": "Morocco",
     "wikiLink": "https://en.wikipedia.org/wiki/Morocco",
     "officialLanguages": [
@@ -1938,7 +1938,7 @@ exports.countriesData = {
     "capital": "Rabat",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/125px-Flag_of_Morocco.svg.png"
   },
-  "Mozambique": {
+  "mozambique": {
     "countryName": "Mozambique",
     "wikiLink": "https://en.wikipedia.org/wiki/Mozambique",
     "officialLanguages": [
@@ -1954,7 +1954,7 @@ exports.countriesData = {
     "capital": "Maputo",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Mozambique.svg/125px-Flag_of_Mozambique.svg.png"
   },
-  "Myanmar": {
+  "myanmar": {
     "countryName": "Myanmar",
     "wikiLink": "https://en.wikipedia.org/wiki/Myanmar",
     "officialLanguages": [
@@ -1970,7 +1970,7 @@ exports.countriesData = {
     "capital": "Naypyidaw",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flag_of_Myanmar.svg/125px-Flag_of_Myanmar.svg.png"
   },
-  "Namibia": {
+  "namibia": {
     "countryName": "Namibia",
     "wikiLink": "https://en.wikipedia.org/wiki/Namibia",
     "officialLanguages": [
@@ -1986,7 +1986,7 @@ exports.countriesData = {
     "capital": "Windhoek",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Namibia.svg/125px-Flag_of_Namibia.svg.png"
   },
-  "Nauru": {
+  "nauru": {
     "countryName": "Nauru",
     "wikiLink": "https://en.wikipedia.org/wiki/Nauru",
     "officialLanguages": [
@@ -2000,10 +2000,10 @@ exports.countriesData = {
     "gini": "",
     "currency": "Australian dollar",
     "drivingSide": "left",
-    "capital": "",
+    "capital": "de jure",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Flag_of_Nauru.svg/125px-Flag_of_Nauru.svg.png"
   },
-  "Nepal": {
+  "nepal": {
     "countryName": "Nepal",
     "wikiLink": "https://en.wikipedia.org/wiki/Nepal",
     "officialLanguages": [
@@ -2019,7 +2019,7 @@ exports.countriesData = {
     "capital": "Kathmandu",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Flag_of_Nepal.svg/80px-Flag_of_Nepal.svg.png"
   },
-  "Kingdom of the Netherlands": {
+  "kingdom of the netherlands": {
     "countryName": "Kingdom of the Netherlands",
     "wikiLink": "https://en.wikipedia.org/wiki/Kingdom_of_the_Netherlands",
     "officialLanguages": [
@@ -2035,7 +2035,7 @@ exports.countriesData = {
     "capital": "Amsterdam",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/125px-Flag_of_the_Netherlands.svg.png"
   },
-  "New Zealand": {
+  "new zealand": {
     "countryName": "New Zealand",
     "wikiLink": "https://en.wikipedia.org/wiki/New_Zealand",
     "officialLanguages": [
@@ -2053,7 +2053,7 @@ exports.countriesData = {
     "capital": "Wellington",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/125px-Flag_of_New_Zealand.svg.png"
   },
-  "Nicaragua": {
+  "nicaragua": {
     "countryName": "Nicaragua",
     "wikiLink": "https://en.wikipedia.org/wiki/Nicaragua",
     "officialLanguages": [
@@ -2069,7 +2069,7 @@ exports.countriesData = {
     "capital": "Managua",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Nicaragua.svg/125px-Flag_of_Nicaragua.svg.png"
   },
-  "Niger": {
+  "niger": {
     "countryName": "Niger",
     "wikiLink": "https://en.wikipedia.org/wiki/Niger",
     "officialLanguages": [
@@ -2085,7 +2085,7 @@ exports.countriesData = {
     "capital": "Niamey",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Flag_of_Niger.svg/125px-Flag_of_Niger.svg.png"
   },
-  "Nigeria": {
+  "nigeria": {
     "countryName": "Nigeria",
     "wikiLink": "https://en.wikipedia.org/wiki/Nigeria",
     "officialLanguages": [
@@ -2101,7 +2101,7 @@ exports.countriesData = {
     "capital": "Abuja",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/125px-Flag_of_Nigeria.svg.png"
   },
-  "North Macedonia": {
+  "north macedonia": {
     "countryName": "North Macedonia",
     "wikiLink": "https://en.wikipedia.org/wiki/North_Macedonia",
     "officialLanguages": [
@@ -2121,7 +2121,7 @@ exports.countriesData = {
     "capital": "Skopje",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_North_Macedonia.svg/125px-Flag_of_North_Macedonia.svg.png"
   },
-  "Norway": {
+  "norway": {
     "countryName": "Norway",
     "wikiLink": "https://en.wikipedia.org/wiki/Norway",
     "officialLanguages": [
@@ -2138,7 +2138,7 @@ exports.countriesData = {
     "capital": "Oslo",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/125px-Flag_of_Norway.svg.png"
   },
-  "Oman": {
+  "oman": {
     "countryName": "Oman",
     "wikiLink": "https://en.wikipedia.org/wiki/Oman",
     "officialLanguages": [
@@ -2154,7 +2154,7 @@ exports.countriesData = {
     "capital": "Muscat",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Oman.svg/125px-Flag_of_Oman.svg.png"
   },
-  "Pakistan": {
+  "pakistan": {
     "countryName": "Pakistan",
     "wikiLink": "https://en.wikipedia.org/wiki/Pakistan",
     "officialLanguages": [
@@ -2171,7 +2171,7 @@ exports.countriesData = {
     "capital": "Islamabad",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/125px-Flag_of_Pakistan.svg.png"
   },
-  "Palau": {
+  "palau": {
     "countryName": "Palau",
     "wikiLink": "https://en.wikipedia.org/wiki/Palau",
     "officialLanguages": [
@@ -2191,7 +2191,7 @@ exports.countriesData = {
     "capital": "Ngerulmud",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Palau.svg/125px-Flag_of_Palau.svg.png"
   },
-  "State of Palestine": {
+  "state of palestine": {
     "countryName": "State of Palestine",
     "wikiLink": "https://en.wikipedia.org/wiki/State_of_Palestine",
     "officialLanguages": [
@@ -2207,7 +2207,7 @@ exports.countriesData = {
     "capital": "",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Palestine.svg/125px-Flag_of_Palestine.svg.png"
   },
-  "Panama": {
+  "panama": {
     "countryName": "Panama",
     "wikiLink": "https://en.wikipedia.org/wiki/Panama",
     "officialLanguages": [
@@ -2223,7 +2223,7 @@ exports.countriesData = {
     "capital": "Panama City",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/125px-Flag_of_Panama.svg.png"
   },
-  "Papua New Guinea": {
+  "papua new guinea": {
     "countryName": "Papua New Guinea",
     "wikiLink": "https://en.wikipedia.org/wiki/Papua_New_Guinea",
     "officialLanguages": [
@@ -2242,7 +2242,7 @@ exports.countriesData = {
     "capital": "Port Moresby",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Flag_of_Papua_New_Guinea.svg/125px-Flag_of_Papua_New_Guinea.svg.png"
   },
-  "Paraguay": {
+  "paraguay": {
     "countryName": "Paraguay",
     "wikiLink": "https://en.wikipedia.org/wiki/Paraguay",
     "officialLanguages": [
@@ -2259,7 +2259,7 @@ exports.countriesData = {
     "capital": "Asunción",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/125px-Flag_of_Paraguay.svg.png"
   },
-  "Peru": {
+  "peru": {
     "countryName": "Peru",
     "wikiLink": "https://en.wikipedia.org/wiki/Peru",
     "officialLanguages": [
@@ -2278,7 +2278,7 @@ exports.countriesData = {
     "capital": "Lima",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/125px-Flag_of_Peru.svg.png"
   },
-  "Philippines": {
+  "philippines": {
     "countryName": "Philippines",
     "wikiLink": "https://en.wikipedia.org/wiki/Philippines",
     "officialLanguages": [
@@ -2295,7 +2295,7 @@ exports.countriesData = {
     "capital": "Manila",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/125px-Flag_of_the_Philippines.svg.png"
   },
-  "Poland": {
+  "poland": {
     "countryName": "Poland",
     "wikiLink": "https://en.wikipedia.org/wiki/Poland",
     "officialLanguages": [
@@ -2311,7 +2311,7 @@ exports.countriesData = {
     "capital": "Warsaw",
     "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/125px-Flag_of_Poland.svg.png"
   },
-  "Portugal": {
+  "portugal": {
     "countryName": "Portugal",
     "wikiLink": "https://en.wikipedia.org/wiki/Portugal",
     "officialLanguages": [
@@ -2327,7 +2327,7 @@ exports.countriesData = {
     "capital": "Lisbon",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/125px-Flag_of_Portugal.svg.png"
   },
-  "Qatar": {
+  "qatar": {
     "countryName": "Qatar",
     "wikiLink": "https://en.wikipedia.org/wiki/Qatar",
     "officialLanguages": [
@@ -2343,7 +2343,7 @@ exports.countriesData = {
     "capital": "Doha",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Qatar.svg/125px-Flag_of_Qatar.svg.png"
   },
-  "Romania": {
+  "romania": {
     "countryName": "Romania",
     "wikiLink": "https://en.wikipedia.org/wiki/Romania",
     "officialLanguages": [
@@ -2359,7 +2359,7 @@ exports.countriesData = {
     "capital": "Bucharest",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/125px-Flag_of_Romania.svg.png"
   },
-  "Russia": {
+  "russia": {
     "countryName": "Russia",
     "wikiLink": "https://en.wikipedia.org/wiki/Russia",
     "officialLanguages": [
@@ -2375,7 +2375,7 @@ exports.countriesData = {
     "capital": "Moscow",
     "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/125px-Flag_of_Russia.svg.png"
   },
-  "Rwanda": {
+  "rwanda": {
     "countryName": "Rwanda",
     "wikiLink": "https://en.wikipedia.org/wiki/Rwanda",
     "officialLanguages": [
@@ -2394,7 +2394,7 @@ exports.countriesData = {
     "capital": "Kigali",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Rwanda.svg/125px-Flag_of_Rwanda.svg.png"
   },
-  "Saint Kitts and Nevis": {
+  "saint kitts and nevis": {
     "countryName": "Saint Kitts and Nevis",
     "wikiLink": "https://en.wikipedia.org/wiki/Saint_Kitts_and_Nevis",
     "officialLanguages": [
@@ -2410,7 +2410,7 @@ exports.countriesData = {
     "capital": "Basseterre",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Saint_Kitts_and_Nevis.svg/125px-Flag_of_Saint_Kitts_and_Nevis.svg.png"
   },
-  "Saint Lucia": {
+  "saint lucia": {
     "countryName": "Saint Lucia",
     "wikiLink": "https://en.wikipedia.org/wiki/Saint_Lucia",
     "officialLanguages": [
@@ -2426,7 +2426,7 @@ exports.countriesData = {
     "capital": "Castries",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Saint_Lucia.svg/125px-Flag_of_Saint_Lucia.svg.png"
   },
-  "Saint Vincent and the Grenadines": {
+  "saint vincent and the grenadines": {
     "countryName": "Saint Vincent and the Grenadines",
     "wikiLink": "https://en.wikipedia.org/wiki/Saint_Vincent_and_the_Grenadines",
     "officialLanguages": [
@@ -2442,7 +2442,7 @@ exports.countriesData = {
     "capital": "Kingstown",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Flag_of_Saint_Vincent_and_the_Grenadines.svg/125px-Flag_of_Saint_Vincent_and_the_Grenadines.svg.png"
   },
-  "Samoa": {
+  "samoa": {
     "countryName": "Samoa",
     "wikiLink": "https://en.wikipedia.org/wiki/Samoa",
     "officialLanguages": [
@@ -2459,7 +2459,7 @@ exports.countriesData = {
     "capital": "Apia",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Samoa.svg/125px-Flag_of_Samoa.svg.png"
   },
-  "San Marino": {
+  "san marino": {
     "countryName": "San Marino",
     "wikiLink": "https://en.wikipedia.org/wiki/San_Marino",
     "officialLanguages": [
@@ -2475,7 +2475,7 @@ exports.countriesData = {
     "capital": "San Marino",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Flag_of_San_Marino.svg/125px-Flag_of_San_Marino.svg.png"
   },
-  "Sao Tome and Principe": {
+  "sao tome and principe": {
     "countryName": "São Tomé and Príncipe",
     "wikiLink": "https://en.wikipedia.org/wiki/S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe",
     "officialLanguages": [
@@ -2491,7 +2491,7 @@ exports.countriesData = {
     "capital": "São Tomé",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Sao_Tome_and_Principe.svg/125px-Flag_of_Sao_Tome_and_Principe.svg.png"
   },
-  "Saudi Arabia": {
+  "saudi arabia": {
     "countryName": "Saudi Arabia",
     "wikiLink": "https://en.wikipedia.org/wiki/Saudi_Arabia",
     "officialLanguages": [
@@ -2507,7 +2507,7 @@ exports.countriesData = {
     "capital": "Riyadh",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Saudi_Arabia_%28type_1%29.svg/125px-Flag_of_Saudi_Arabia_%28type_1%29.svg.png"
   },
-  "Senegal": {
+  "senegal": {
     "countryName": "Senegal",
     "wikiLink": "https://en.wikipedia.org/wiki/Senegal",
     "officialLanguages": [
@@ -2523,7 +2523,7 @@ exports.countriesData = {
     "capital": "Dakar",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/125px-Flag_of_Senegal.svg.png"
   },
-  "Serbia": {
+  "serbia": {
     "countryName": "Serbia",
     "wikiLink": "https://en.wikipedia.org/wiki/Serbia",
     "officialLanguages": [
@@ -2539,7 +2539,7 @@ exports.countriesData = {
     "capital": "Belgrade",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/125px-Flag_of_Serbia.svg.png"
   },
-  "Seychelles": {
+  "seychelles": {
     "countryName": "Seychelles",
     "wikiLink": "https://en.wikipedia.org/wiki/Seychelles",
     "officialLanguages": [
@@ -2557,7 +2557,7 @@ exports.countriesData = {
     "capital": "Victoria",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Seychelles.svg/125px-Flag_of_Seychelles.svg.png"
   },
-  "Sierra Leone": {
+  "sierra leone": {
     "countryName": "Sierra Leone",
     "wikiLink": "https://en.wikipedia.org/wiki/Sierra_Leone",
     "officialLanguages": [
@@ -2573,7 +2573,7 @@ exports.countriesData = {
     "capital": "Freetown",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Sierra_Leone.svg/125px-Flag_of_Sierra_Leone.svg.png"
   },
-  "Singapore": {
+  "singapore": {
     "countryName": "Singapore",
     "wikiLink": "https://en.wikipedia.org/wiki/Singapore",
     "officialLanguages": [
@@ -2592,7 +2592,7 @@ exports.countriesData = {
     "capital": "",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Singapore.svg/125px-Flag_of_Singapore.svg.png"
   },
-  "Slovakia": {
+  "slovakia": {
     "countryName": "Slovakia",
     "wikiLink": "https://en.wikipedia.org/wiki/Slovakia",
     "officialLanguages": [
@@ -2608,7 +2608,7 @@ exports.countriesData = {
     "capital": "Bratislava",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/125px-Flag_of_Slovakia.svg.png"
   },
-  "Slovenia": {
+  "slovenia": {
     "countryName": "Slovenia",
     "wikiLink": "https://en.wikipedia.org/wiki/Slovenia",
     "officialLanguages": [
@@ -2624,7 +2624,7 @@ exports.countriesData = {
     "capital": "Ljubljana",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/125px-Flag_of_Slovenia.svg.png"
   },
-  "Solomon Islands": {
+  "solomon islands": {
     "countryName": "Solomon Islands",
     "wikiLink": "https://en.wikipedia.org/wiki/Solomon_Islands",
     "officialLanguages": [
@@ -2640,7 +2640,7 @@ exports.countriesData = {
     "capital": "Honiara",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Flag_of_the_Solomon_Islands.svg/125px-Flag_of_the_Solomon_Islands.svg.png"
   },
-  "Somalia": {
+  "somalia": {
     "countryName": "Somalia",
     "wikiLink": "https://en.wikipedia.org/wiki/Somalia",
     "officialLanguages": [
@@ -2657,7 +2657,7 @@ exports.countriesData = {
     "capital": "Mogadishu",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Flag_of_Somalia.svg/125px-Flag_of_Somalia.svg.png"
   },
-  "South Africa": {
+  "south africa": {
     "countryName": "South Africa",
     "wikiLink": "https://en.wikipedia.org/wiki/South_Africa",
     "officialLanguages": [
@@ -2698,7 +2698,7 @@ exports.countriesData = {
     "capital": "Pretoria",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/125px-Flag_of_South_Africa.svg.png"
   },
-  "South Sudan": {
+  "south sudan": {
     "countryName": "South Sudan",
     "wikiLink": "https://en.wikipedia.org/wiki/South_Sudan",
     "officialLanguages": [
@@ -2714,7 +2714,7 @@ exports.countriesData = {
     "capital": "Juba",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Flag_of_South_Sudan.svg/125px-Flag_of_South_Sudan.svg.png"
   },
-  "Spain": {
+  "spain": {
     "countryName": "Spain",
     "wikiLink": "https://en.wikipedia.org/wiki/Spain",
     "officialLanguages": [
@@ -2730,7 +2730,7 @@ exports.countriesData = {
     "capital": "Madrid",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bandera_de_Espa%C3%B1a.svg/125px-Bandera_de_Espa%C3%B1a.svg.png"
   },
-  "Sri Lanka": {
+  "sri lanka": {
     "countryName": "Sri Lanka",
     "wikiLink": "https://en.wikipedia.org/wiki/Sri_Lanka",
     "officialLanguages": [
@@ -2747,7 +2747,7 @@ exports.countriesData = {
     "capital": "Sri Jayawardenepura Kotte",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/125px-Flag_of_Sri_Lanka.svg.png"
   },
-  "Sudan": {
+  "sudan": {
     "countryName": "Sudan",
     "wikiLink": "https://en.wikipedia.org/wiki/Sudan",
     "officialLanguages": [
@@ -2764,7 +2764,7 @@ exports.countriesData = {
     "capital": "Khartoum",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Sudan.svg/125px-Flag_of_Sudan.svg.png"
   },
-  "Suriname": {
+  "suriname": {
     "countryName": "Suriname",
     "wikiLink": "https://en.wikipedia.org/wiki/Suriname",
     "officialLanguages": [
@@ -2780,7 +2780,7 @@ exports.countriesData = {
     "capital": "Paramaribo",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/125px-Flag_of_Suriname.svg.png"
   },
-  "Sweden": {
+  "sweden": {
     "countryName": "Sweden",
     "wikiLink": "https://en.wikipedia.org/wiki/Sweden",
     "officialLanguages": [
@@ -2796,7 +2796,7 @@ exports.countriesData = {
     "capital": "Stockholm",
     "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/125px-Flag_of_Sweden.svg.png"
   },
-  "Switzerland": {
+  "switzerland": {
     "countryName": "Switzerland",
     "wikiLink": "https://en.wikipedia.org/wiki/Switzerland",
     "officialLanguages": [
@@ -2811,10 +2811,10 @@ exports.countriesData = {
     "gini": "29.7",
     "currency": "Swiss franc",
     "drivingSide": "right",
-    "capital": "",
+    "capital": "de jure",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/125px-Flag_of_Switzerland.svg.png"
   },
-  "Syria": {
+  "syria": {
     "countryName": "Syria",
     "wikiLink": "https://en.wikipedia.org/wiki/Syria",
     "officialLanguages": [
@@ -2830,7 +2830,7 @@ exports.countriesData = {
     "capital": "Damascus",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Flag_of_Syria.svg/125px-Flag_of_Syria.svg.png"
   },
-  "Tajikistan": {
+  "tajikistan": {
     "countryName": "Tajikistan",
     "wikiLink": "https://en.wikipedia.org/wiki/Tajikistan",
     "officialLanguages": [
@@ -2847,7 +2847,7 @@ exports.countriesData = {
     "capital": "Dushanbe",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Tajikistan.svg/125px-Flag_of_Tajikistan.svg.png"
   },
-  "Tanzania": {
+  "tanzania": {
     "countryName": "Tanzania",
     "wikiLink": "https://en.wikipedia.org/wiki/Tanzania",
     "officialLanguages": [
@@ -2864,7 +2864,7 @@ exports.countriesData = {
     "capital": "Dodoma",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tanzania.svg/125px-Flag_of_Tanzania.svg.png"
   },
-  "Thailand": {
+  "thailand": {
     "countryName": "Thailand",
     "wikiLink": "https://en.wikipedia.org/wiki/Thailand",
     "officialLanguages": [
@@ -2880,7 +2880,7 @@ exports.countriesData = {
     "capital": "Bangkok",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/125px-Flag_of_Thailand.svg.png"
   },
-  "Togo": {
+  "togo": {
     "countryName": "Togo",
     "wikiLink": "https://en.wikipedia.org/wiki/Togo",
     "officialLanguages": [
@@ -2896,7 +2896,7 @@ exports.countriesData = {
     "capital": "Lomé",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Flag_of_Togo.svg/125px-Flag_of_Togo.svg.png"
   },
-  "Tonga": {
+  "tonga": {
     "countryName": "Tonga",
     "wikiLink": "https://en.wikipedia.org/wiki/Tonga",
     "officialLanguages": [
@@ -2912,7 +2912,7 @@ exports.countriesData = {
     "capital": "Nukuʻalofa",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Tonga.svg/125px-Flag_of_Tonga.svg.png"
   },
-  "Trinidad and Tobago": {
+  "trinidad and tobago": {
     "countryName": "Trinidad and Tobago",
     "wikiLink": "https://en.wikipedia.org/wiki/Trinidad_and_Tobago",
     "officialLanguages": [
@@ -2928,7 +2928,7 @@ exports.countriesData = {
     "capital": "Port of Spain",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Trinidad_and_Tobago.svg/125px-Flag_of_Trinidad_and_Tobago.svg.png"
   },
-  "Tunisia": {
+  "tunisia": {
     "countryName": "Tunisia",
     "wikiLink": "https://en.wikipedia.org/wiki/Tunisia",
     "officialLanguages": [
@@ -2944,7 +2944,7 @@ exports.countriesData = {
     "capital": "Tunis",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/125px-Flag_of_Tunisia.svg.png"
   },
-  "Turkey": {
+  "turkey": {
     "countryName": "Turkey",
     "wikiLink": "https://en.wikipedia.org/wiki/Turkey",
     "officialLanguages": [
@@ -2960,7 +2960,7 @@ exports.countriesData = {
     "capital": "Ankara",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/125px-Flag_of_Turkey.svg.png"
   },
-  "Turkmenistan": {
+  "turkmenistan": {
     "countryName": "Turkmenistan",
     "wikiLink": "https://en.wikipedia.org/wiki/Turkmenistan",
     "officialLanguages": [
@@ -2976,7 +2976,7 @@ exports.countriesData = {
     "capital": "Ashgabat",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Turkmenistan.svg/110px-Flag_of_Turkmenistan.svg.png"
   },
-  "Tuvalu": {
+  "tuvalu": {
     "countryName": "Tuvalu",
     "wikiLink": "https://en.wikipedia.org/wiki/Tuvalu",
     "officialLanguages": [
@@ -2993,7 +2993,7 @@ exports.countriesData = {
     "capital": "Funafuti",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tuvalu.svg/125px-Flag_of_Tuvalu.svg.png"
   },
-  "Uganda": {
+  "uganda": {
     "countryName": "Uganda",
     "wikiLink": "https://en.wikipedia.org/wiki/Uganda",
     "officialLanguages": [
@@ -3010,7 +3010,7 @@ exports.countriesData = {
     "capital": "Kampala",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Flag_of_Uganda.svg/125px-Flag_of_Uganda.svg.png"
   },
-  "Ukraine": {
+  "ukraine": {
     "countryName": "Ukraine",
     "wikiLink": "https://en.wikipedia.org/wiki/Ukraine",
     "officialLanguages": [
@@ -3026,7 +3026,7 @@ exports.countriesData = {
     "capital": "Kyiv",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/125px-Flag_of_Ukraine.svg.png"
   },
-  "United Arab Emirates": {
+  "united arab emirates": {
     "countryName": "United Arab Emirates",
     "wikiLink": "https://en.wikipedia.org/wiki/United_Arab_Emirates",
     "officialLanguages": [
@@ -3042,7 +3042,7 @@ exports.countriesData = {
     "capital": "Abu Dhabi",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/125px-Flag_of_the_United_Arab_Emirates.svg.png"
   },
-  "United Kingdom": {
+  "united kingdom": {
     "countryName": "United Kingdom",
     "wikiLink": "https://en.wikipedia.org/wiki/United_Kingdom",
     "officialLanguages": [
@@ -3058,7 +3058,7 @@ exports.countriesData = {
     "capital": "London",
     "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/125px-Flag_of_the_United_Kingdom.svg.png"
   },
-  "United States": {
+  "united states": {
     "countryName": "United States",
     "wikiLink": "https://en.wikipedia.org/wiki/United_States",
     "officialLanguages": [],
@@ -3072,7 +3072,7 @@ exports.countriesData = {
     "capital": "Washington, D.C.",
     "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/125px-Flag_of_the_United_States.svg.png"
   },
-  "Uruguay": {
+  "uruguay": {
     "countryName": "Uruguay",
     "wikiLink": "https://en.wikipedia.org/wiki/Uruguay",
     "officialLanguages": [
@@ -3089,7 +3089,7 @@ exports.countriesData = {
     "capital": "Montevideo",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/125px-Flag_of_Uruguay.svg.png"
   },
-  "Uzbekistan": {
+  "uzbekistan": {
     "countryName": "Uzbekistan",
     "wikiLink": "https://en.wikipedia.org/wiki/Uzbekistan",
     "officialLanguages": [
@@ -3105,7 +3105,7 @@ exports.countriesData = {
     "capital": "Tashkent",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Uzbekistan.svg/125px-Flag_of_Uzbekistan.svg.png"
   },
-  "Vanuatu": {
+  "vanuatu": {
     "countryName": "Vanuatu",
     "wikiLink": "https://en.wikipedia.org/wiki/Vanuatu",
     "officialLanguages": [
@@ -3123,7 +3123,7 @@ exports.countriesData = {
     "capital": "Port Vila",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Flag_of_Vanuatu_%28official%29.svg/125px-Flag_of_Vanuatu_%28official%29.svg.png"
   },
-  "Vatican City": {
+  "vatican city": {
     "countryName": "Vatican City",
     "wikiLink": "https://en.wikipedia.org/wiki/Vatican_City",
     "officialLanguages": [
@@ -3137,7 +3137,7 @@ exports.countriesData = {
     "capital": "",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_the_Vatican_City.svg/125px-Flag_of_the_Vatican_City.svg.png"
   },
-  "Venezuela": {
+  "venezuela": {
     "countryName": "Venezuela",
     "wikiLink": "https://en.wikipedia.org/wiki/Venezuela",
     "officialLanguages": [
@@ -3153,7 +3153,7 @@ exports.countriesData = {
     "capital": "Caracas",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/125px-Flag_of_Venezuela.svg.png"
   },
-  "Vietnam": {
+  "vietnam": {
     "countryName": "Vietnam",
     "wikiLink": "https://en.wikipedia.org/wiki/Vietnam",
     "officialLanguages": [],
@@ -3167,7 +3167,7 @@ exports.countriesData = {
     "capital": "Hanoi",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/125px-Flag_of_Vietnam.svg.png"
   },
-  "Yemen": {
+  "yemen": {
     "countryName": "Yemen",
     "wikiLink": "https://en.wikipedia.org/wiki/Yemen",
     "officialLanguages": [
@@ -3183,7 +3183,7 @@ exports.countriesData = {
     "capital": "Aden",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_Yemen.svg/125px-Flag_of_Yemen.svg.png"
   },
-  "Zambia": {
+  "zambia": {
     "countryName": "Zambia",
     "wikiLink": "https://en.wikipedia.org/wiki/Zambia",
     "officialLanguages": [
@@ -3199,7 +3199,7 @@ exports.countriesData = {
     "capital": "Lusaka",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Zambia.svg/125px-Flag_of_Zambia.svg.png"
   },
-  "Zimbabwe": {
+  "zimbabwe": {
     "countryName": "Zimbabwe",
     "wikiLink": "https://en.wikipedia.org/wiki/Zimbabwe",
     "officialLanguages": [
@@ -3230,7 +3230,7 @@ exports.countriesData = {
     "capital": "Harare",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Flag_of_Zimbabwe.svg/125px-Flag_of_Zimbabwe.svg.png"
   },
-  "Abkhazia": {
+  "abkhazia": {
     "countryName": "Abkhazia",
     "wikiLink": "https://en.wikipedia.org/wiki/Abkhazia",
     "officialLanguages": [
@@ -3245,7 +3245,7 @@ exports.countriesData = {
     "capital": "Sukhumi",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Flag_of_the_Republic_of_Abkhazia.svg/125px-Flag_of_the_Republic_of_Abkhazia.svg.png"
   },
-  "Republic of Artsakh": {
+  "republic of artsakh": {
     "countryName": "Republic of Artsakh",
     "wikiLink": "https://en.wikipedia.org/wiki/Republic_of_Artsakh",
     "officialLanguages": [
@@ -3262,7 +3262,7 @@ exports.countriesData = {
     "capital": "Stepanakert",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Flag_of_Artsakh.svg/125px-Flag_of_Artsakh.svg.png"
   },
-  "Cook Islands": {
+  "cook islands": {
     "countryName": "Cook Islands",
     "wikiLink": "https://en.wikipedia.org/wiki/Cook_Islands",
     "officialLanguages": [
@@ -3277,7 +3277,7 @@ exports.countriesData = {
     "capital": "Avarua",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_the_Cook_Islands.svg/125px-Flag_of_the_Cook_Islands.svg.png"
   },
-  "Donetsk People's Republic": {
+  "donetsk people's republic": {
     "countryName": "Donetsk People's Republic",
     "wikiLink": "https://en.wikipedia.org/wiki/Donetsk_People%27s_Republic",
     "officialLanguages": [
@@ -3291,7 +3291,7 @@ exports.countriesData = {
     "capital": "Donetsk",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Donetsk_People%27s_Republic.svg/125px-Flag_of_Donetsk_People%27s_Republic.svg.png"
   },
-  "Kosovo": {
+  "kosovo": {
     "countryName": "Kosovo",
     "wikiLink": "https://en.wikipedia.org/wiki/Kosovo",
     "officialLanguages": [
@@ -3308,7 +3308,7 @@ exports.countriesData = {
     "capital": "Pristina",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Flag_of_Kosovo.svg/125px-Flag_of_Kosovo.svg.png"
   },
-  "Luhansk People's Republic": {
+  "luhansk people's republic": {
     "countryName": "Luhansk People's Republic",
     "wikiLink": "https://en.wikipedia.org/wiki/Luhansk_People%27s_Republic",
     "officialLanguages": [
@@ -3322,7 +3322,7 @@ exports.countriesData = {
     "capital": "Luhansk",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Flag_of_the_Luhansk_People%27s_Republic.svg/125px-Flag_of_the_Luhansk_People%27s_Republic.svg.png"
   },
-  "Niue": {
+  "niue": {
     "countryName": "Niue",
     "wikiLink": "https://en.wikipedia.org/wiki/Niue",
     "officialLanguages": [
@@ -3339,7 +3339,7 @@ exports.countriesData = {
     "capital": "Alofi",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Niue.svg/125px-Flag_of_Niue.svg.png"
   },
-  "Northern Cyprus": {
+  "northern cyprus": {
     "countryName": "Northern Cyprus",
     "wikiLink": "https://en.wikipedia.org/wiki/Northern_Cyprus",
     "officialLanguages": [
@@ -3353,7 +3353,7 @@ exports.countriesData = {
     "capital": "North Nicosia",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Flag_of_the_Turkish_Republic_of_Northern_Cyprus.svg/125px-Flag_of_the_Turkish_Republic_of_Northern_Cyprus.svg.png"
   },
-  "Sahrawi Arab Democratic Republic": {
+  "sahrawi arab democratic republic": {
     "countryName": "Sahrawi Arab Democratic Republic",
     "wikiLink": "https://en.wikipedia.org/wiki/Sahrawi_Arab_Democratic_Republic",
     "officialLanguages": [
@@ -3368,7 +3368,7 @@ exports.countriesData = {
     "capital": "Rabuni",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Flag_of_the_Sahrawi_Arab_Democratic_Republic.svg/125px-Flag_of_the_Sahrawi_Arab_Democratic_Republic.svg.png"
   },
-  "Somaliland": {
+  "somaliland": {
     "countryName": "Somaliland",
     "wikiLink": "https://en.wikipedia.org/wiki/Somaliland",
     "officialLanguages": [
@@ -3384,7 +3384,7 @@ exports.countriesData = {
     "capital": "Hargeisa",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Flag_of_Somaliland.svg/140px-Flag_of_Somaliland.svg.png"
   },
-  "South Ossetia": {
+  "south ossetia": {
     "countryName": "South Ossetia",
     "wikiLink": "https://en.wikipedia.org/wiki/South_Ossetia",
     "officialLanguages": [
@@ -3399,7 +3399,7 @@ exports.countriesData = {
     "capital": "Tskhinvali",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_South_Ossetia.svg/125px-Flag_of_South_Ossetia.svg.png"
   },
-  "Taiwan": {
+  "taiwan": {
     "countryName": "Taiwan",
     "wikiLink": "https://en.wikipedia.org/wiki/Taiwan",
     "officialLanguages": [
@@ -3415,7 +3415,7 @@ exports.countriesData = {
     "capital": "Taipei",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Flag_of_the_Republic_of_China.svg/125px-Flag_of_the_Republic_of_China.svg.png"
   },
-  "Transnistria": {
+  "transnistria": {
     "countryName": "Transnistria",
     "wikiLink": "https://en.wikipedia.org/wiki/Transnistria",
     "officialLanguages": [

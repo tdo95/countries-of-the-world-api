@@ -65,9 +65,9 @@ async function buildCountriesList() {
         $('table.sortable td b a', html).each(function() {
             //grab text from id, TODO: format text to remove extra details??
             let countryName = $(this).attr('title');
-            //remove any accent marks from name
+            //remove any accent marks from name and make lowercase
             // See: https://stackoverflow.com/questions/990904/remove-accents-diacritics-in-a-string-in-javascript
-            const normalizedCountryName = countryName.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+            const normalizedCountryName = countryName.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
             const wikiLink = `https://en.wikipedia.org${$(this).attr('href')}`
             //build initial object
             countries[normalizedCountryName] = {
