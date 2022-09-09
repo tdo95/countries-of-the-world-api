@@ -2,9 +2,12 @@ const express = require('express');
 const cheerio = require('cheerio');
 const axios = require('axios');
 const fs = require('fs');
+const cors = require('cors')
 const app = express();
 const PORT = 8000;
 const { countriesData } = require('./countries-data.js')
+
+app.use(cors());
 
 ///////////////////////////////////////////////////////////////////////////////////
 ///////////////////////////////////////////////////////////////////// ROUTES
