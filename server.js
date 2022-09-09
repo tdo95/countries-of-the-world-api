@@ -83,6 +83,7 @@ async function buildCountriesList() {
                 currency: '',
                 drivingSide: '',
                 capital: '',
+                flag: '',
             };
         })
     } catch (error) {
