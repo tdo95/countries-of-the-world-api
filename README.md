@@ -4,12 +4,12 @@ Ever wondered what side of the street people drive on in Brazil? Now you can get
 
 Countries of the World is an API that serves social and geographical information about all of the countries in the world.
 
-<br><br>Try it out here: [Live Site](#) ✨
+<br><br>Try it out here: [Live Site](https://countries-of-the-world-api-production.up.railway.app/) ✨
 ###
-![Demo Image Gif](#)
+![Demo Image Gif](https://github.com/tdo95/countries-of-the-world-api/blob/main/countries-demo-small.gif)
 
 ## About the API
-All relevant information about the API such as countries available, endpints, and api properties can be found in the [documentation]().
+All relevant information about the API such as countries available, endpints, and api properties can be found in the [documentation](https://countries-of-the-world-api-production.up.railway.app/#API).
 
 Some countires may not have all property data. Unavailable data properties are represented by an empty value. e.g. empty string values are `''`, empty array values are `[]`.
 
