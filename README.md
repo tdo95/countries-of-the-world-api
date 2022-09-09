@@ -4,7 +4,7 @@ Ever wondered what side of the street people drive on in Brazil? Now you can get
 
 Countries of the World is an API that serves social and geographical information about all of the countries in the world.
 
-<br><br>Try it out here: [Live Site](https://countries-of-the-world-api-production.up.railway.app/) ✨
+<br>Try it out here: [Live Site](https://countries-of-the-world-api-production.up.railway.app/) ✨
 ###
 ![Demo Image Gif](https://github.com/tdo95/countries-of-the-world-api/blob/main/countries-demo-small.gif)
 
