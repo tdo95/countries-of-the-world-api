@@ -9,6 +9,10 @@
 		<link rel="icon" type="image/png" href="">
 
 		<title>Countries of the World API</title>
+		
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,300;0,400;0,500;0,600;1,700&family=Pacifico&family=Ubuntu:wght@300;400;500;700&family=Work+Sans:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 
 		<!-- external CSS link -->
 		<link rel="stylesheet" href="css/normalize.css">
@@ -17,7 +21,7 @@
 	<body>
 		<!-- NAVIGATION -->
 		<header>
-			<h1>Countries of the World <span>API</span></h1>
+			<h1>Countries of the World</h1>
 			<div class="headerLinks">
 				<a href="#HOME">HOME</a>
 				<a href="#API">API</a>
@@ -28,13 +32,92 @@
 		</header>
 		<!-- HOME SECTION -->
 		<section id="HOME">
-			<h2>Get social and geographical information for any country in the world</h2>
-			<a href="#TEST">TRY IT OUT</a>
+			
+			<div class="homeTextContainer">
+				<img class="flagGlobe" src="./world-g37775118d_640.png" alt="">
+				<h2>Get Social and Geographical Information for any Country in The World</h2>
+				<a href="#TEST">TRY IT OUT</a>
+			</div>
 		</section>
 		<!-- API DOCUMENTATION SECTION -->
-		<section id="API">API</section>
+		<section id="API">
+			<h2 class="cursiveFont">Documentation</h2>
+			<p>Countries of the world API is a database that stores social and geogrpahical information about all the soverign nations in the world and some other states. Territores like Greenland and Puerto Rico are not yet included this collection. If you would like to contribute to this API please visit <a href="">here</a>.</p>
+			<h3>ENDPOINTS</h3>
+			<section>
+				<p><span>GET</span> https://countries-of-the-world-api.heroku.app/api/<span>:name</span> </p>
+				<p>Retrieves a array list of country objects whose name match the query parameter string</p>
+				<p><span>GET</span> https://countries-of-the-world-api.heroku.app/api</p>
+				<p>Retrieves entire API resource, with each country object listed within an array.</p>
+			</section>
+			<h3>PROPERTIES</h3>
+			<table>
+				<th>PROPERTY</th>
+				<th>DESCRIPTION</th>
+				<tr>
+					<td>countryName <span>string</span></td>
+					<td>
+						Name of country, standard casing
+					</td>
+				</tr>
+				<tr>
+					<td>wikiLink <span>string</span></td>
+					<td>
+						Link to country information on wikipedia
+					</td>
+				</tr>
+				<tr>
+					<td>capital <span>string</span></td>
+					<td>
+						Capital city of the country, if none string will be empty
+
+					</td>
+				</tr>
+				<tr>
+					<td>officialLanguages <span>array</span></td>
+					<td>
+						List of all official languages in country, if none array will be empty
+					</td>
+				</tr>
+				<tr>
+					<td>population <span>string</span></td>
+					<td>
+						Estimate of population as of 2022. Numbers in string are comma seperated
+					</td>
+				</tr>
+				<tr>
+					<td>gdp <span>object</span></td>
+					<td>
+						Gross Domestic Production of the country. Only the <code>pppTotal</code> is represented as a proprty within the object. <code>pppTotal</code> reflects the country's total GDP standardize for inflation and to be used for comparisons of living standards between different countries
+
+					</td>
+				</tr>
+				<tr>
+					<td>gini <span>string</span></td>
+					<td>
+						The Gini index is a measure of distribution of income across a population, and is a representation of income inequality within a nation. The higher the value, the greater the divide
+					</td>
+				</tr>
+				<tr>
+					<td>currency <span>string</span></td>
+					<td>
+						Name of currency used within the nation.
+					</td>
+				</tr>
+				<tr>
+					<td>drivingSide <span>string</span></td>
+					<td>
+						Side of the road driven on within the country. Either left or right
+					</td>
+				</tr>
+			</table>
+			<h3>SAMPLE</h3>
+
+		</section>
 		<!-- TESTING SECTION -->
-		<section id="TEST">TEST</section>
+		<section id="TEST">
+			<h2 class="cursiveFont">Search</h2>
+		</section>
 		<script type="text/javascript" src="js/main.js"></script>
 	</body>
 </html>

@@ -16,53 +16,122 @@
 .clear {
 	clear: both;
 }
+a {
+     text-decoration: none;
+     color: black;
+}
 
 /******************************************
 /* BASE STYLES
 /*******************************************/
-
-body {
+html {
      font-size: 62.5%;
+}
+body {
+     font-size: 1.3rem;
+     font-family: 'Ubuntu';
 
 }
-section {
-     border: 1px solid purple;
+h1 {
+     font-family: 'Pacifico', 'cursive';
+     font-size: 2.8rem;
 }
-
-
+.cursiveFont {
+     font-family: 'Pacifico', cursive;
+}
 /******************************************
 /* LAYOUT
 /*******************************************/
-/* NAVIGATION */
+/* **************************NAV************************** */
 header {
      display: flex;
-     height: 60px;
+     height: 80px;
      width: 100%;
      align-items: center;
-     padding: 0 1rem;
+     padding: 0 4rem;
      position: fixed;
      top: 0;
-     background-color: blueviolet;
+     background-color: white;
+     box-shadow:  0 3px 20px rgba(90,90,90,.4);
+     border-radius: 0 0 1.7rem 1.7rem;
 }
 header a {
-     padding: .5rem;
+     padding: 1rem;
+     font-size: 1.7rem;
+     font-weight: 500;
 }
 .headerLinks {
      margin-left: auto;
 }
-section {
-     padding: 1rem;
+#API, #TEST {
+     /* padding: 1rem; */
+     /* Accounts for space taken up by header */
+     padding-top: 75px;
 }
-
-/* HOME */
+#API, #TEST {
+     height: 800px;
+}
+#API h2, #TEST h2 {
+     text-align: center;
+     font-size: 5rem;
+}
+/* **************************HOME************************** */
 #HOME {
      display: flex;
      flex-direction: column;
      align-items: center;
      justify-content: center;
      height: 100vh;
-     /* Accounts for space taken up by header */
-     padding-top: 60px;
+     background: url(../v960-ning-22.jpg);
+     background-size: cover;
+     background-repeat: no-repeat;
+     
+}
+#HOME h2 {
+     font-size: 5rem;
+     text-align: center;
+     color:white;
+     font-family: 'Ubuntu', sans-serif;
+     /* font-weight: 700; */
+     
+}
+#HOME a {
+     padding: 1rem;
+     background-color: white;
+     border-radius: .5rem;
+     box-shadow: 3px 3px 5px 2px rgba(60,60,60,.4);
+     font-weight: 700;
+     font-size: 2rem;
+     /* font-family: 'Pacifico'; */
+     color: orangered;
+     
+}
+.homeTextContainer {
+     display: flex;
+     flex-direction: column;
+     /* justify-content: center; */
+     align-items: center;
+     /* background-color: rgba(249,255,255, .99); */
+     padding: 1rem;
+     max-width: 800px;
+     
+     border-radius: 2rem;
+     /* box-shadow: 0 0 60px 0 rgba(90,90,90,.4); */
+}
+.flagGlobe {
+     width: 40%;
+     max-width: 200px;
+     height: auto;
+     padding: 1.3rem;
+     background-color: white;
+     border-radius: 20rem;
+}
+
+/* **************************API************************** */
+
+#API h3 {
+     text-align: center;
+     font-size: 3rem;
 }
 footer {
 
@@ -71,12 +140,24 @@ footer {
 /******************************************
 /* ADDITIONAL STYLES
 /*******************************************/
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 570px) {
      header {
           flex-direction: column;
      }
      .headerLinks {
           margin: 0;
+     }
+     h1 {
+          margin: .8rem 0 1.1rem 0;
+     }
+     
+}
+@media screen and (max-width: 800px) {
+     #HOME h2 {
+          font-size: 4rem;
+     }
+     #HOME a {
+          font-size: 1.6rem;
      }
      
 }
