@@ -39,6 +39,9 @@ h1 {
 .cursiveFont {
      font-family: 'Pacifico', cursive;
 }
+a:hover {
+     color: orangered;
+}
 /******************************************
 /* LAYOUT
 /*******************************************/
@@ -69,7 +72,7 @@ header a {
      padding-top: 75px;
 }
 #API, #TEST {
-     height: 800px;
+     /* height: 800px; */
 }
 #API h2, #TEST h2 {
      text-align: center;
@@ -127,12 +130,126 @@ header a {
      border-radius: 20rem;
 }
 
-/* **************************API************************** */
+/* **************************API DOCUMENTATION************************** */
 
 #API h3 {
      text-align: center;
      font-size: 3rem;
+     margin-top: 5rem;
 }
+#API {
+     /* text-align: center; */
+}
+.description {
+     padding: 0 3rem;
+     font-size: 2rem;
+     text-align: center;
+     max-width: 900px;
+     margin: 0 auto;
+}
+.description a {
+     text-decoration: underline;
+
+}
+.endpoints {
+     padding: 0 3rem;
+     width: fit-content;
+     margin: 0 auto;
+}
+.endpoints p {
+     font-size: 1.5rem;
+}
+p.url {
+     font-size: 1.7rem;
+     font-weight: 500;
+}
+.url span {
+     color: orangered;
+     font-weight: 800;
+}
+.url + p {
+     margin-bottom: 3rem;
+}
+table {
+     width: 80%;
+     margin: 0 auto;
+     /* border: 1px solid black; */
+     /* padding: 5rem; */
+}
+th {
+     width: 50%;   
+}
+td {
+     border: 2px solid black;
+     padding: 1.5rem;
+     
+}
+.property {
+     text-align: center;
+     font-size: 1.5rem;
+     /* padding-right: 6rem; */
+}
+td span {
+     color: orangered;
+     font-weight: 500;
+     font-size: 1.2rem;
+}
+.note {
+     text-align: center;
+     padding: 3rem;
+}
+.codeSamples {
+     display: flex;
+     margin: 4rem;
+}
+.codeBlock code {
+     display: block;
+     margin: 4rem;
+     /* width: 100%; */
+}
+.codeBlock {
+     overflow-x: scroll;
+     width: 50%;
+     
+}
+.codeBlock h4 {
+     font-size: 1.6rem;
+     text-align: center;
+     color: orangered;
+     margin-top: 0;
+}
+/* **************************SEARCH************************** */
+.searchResults {
+     height: 600px;
+     /* border: 2px red solid; */
+     box-shadow: inset 0 0 60px 0 rgba(90,90,90,.4);
+}
+.search-items {
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     margin-bottom: 3rem;
+}
+
+input {
+     margin: 0;
+     width: 300px;
+     border: 2px solid black;
+     border-radius: .5rem;
+     height: 3rem;
+     padding: 1.5rem;
+}
+.search-items img {
+     margin-right: 1rem;
+}
+.searchTitle {
+     margin-bottom: 1rem;
+}
+#TEST p {
+     text-align: center;
+     font-size: 1.5rem;
+}
+
 footer {
 
 }
@@ -159,5 +276,11 @@ footer {
      #HOME a {
           font-size: 1.6rem;
      }
-     
+     .codeSamples {
+          flex-direction: column;
+     }
+     .codeBlock {
+          width: 100%;
+          margin-bottom: 3rem;
+     }
 }
