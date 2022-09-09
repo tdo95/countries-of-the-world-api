@@ -113,7 +113,7 @@ async function fillInData() {
                 //GET CAPITAL
                 if (heading.includes('Capital')) { 
                     //NOTE: Switzerland and Nauru are special cases, they dont have an official capital
-                    if (name === 'Switzerland' || name === 'Nauru') country.capital = '';
+                    if (name === 'switzerland' || name === 'nauru') country.capital = '';
                     else {
                         let city = $(this).next().find('a').first().text();
                         country.capital = city;
@@ -160,7 +160,7 @@ async function fillInData() {
                 else if (heading.includes('Currency')) {
                    const firstCurrency = $(this).next().find('a').first().text();
                    //NOTE: Kiribati is the only country whos currency is not in an a tag - should think of a work around for this in the future, but for now am defining an exception
-                   if (name === 'Kiribati') country['currency'] = 'Australian dollar'
+                   if (name === 'kiribati') country['currency'] = 'Australian dollar'
                    else country['currency'] = firstCurrency;
                 }
                 //GET GINI
