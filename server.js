@@ -46,10 +46,8 @@ app.listen(process.env.PORT || PORT, () => {
 const countries = {};
 
 //UNCOMMENT FUNCTION TO SCAPE WIKIPEDIA FOR COUNTRIES DATA
-/* NOTE: Nodemon automatically restarts the server everytime a new file is created. 
-Be sure to kill the server as soon as file creation is complete then comment out the function to prevent server from continuously restarting and recreating the file */
 
-scrapeData();
+// scrapeData();
 
 async function scrapeData() {
     let done = await buildCountriesList();
@@ -180,7 +178,7 @@ async function fillInData() {
             country.flag = "https:" + flagImg.attr('src');
 
             //Check values for each property OR check completion
-            console.log(country.countryName, '--->', country.gdp);
+            console.log(country.countryName, '--->', 'done');
         }
         
     } catch (error) {
