@@ -3,7 +3,7 @@ exports.countriesData = {
     "countryName": "Afghanistan",
     "wikiLink": "https://en.wikipedia.org/wiki/Afghanistan",
     "officialLanguages": [],
-    "population": "40,218,234",
+    "population": "38,346,720",
     "gdp": {
       "pppTotal": "$72.911 billion"
     },
@@ -21,7 +21,7 @@ exports.countriesData = {
     ],
     "population": "2,793,592",
     "gdp": {
-      "pppTotal": "$42.594 billion"
+      "pppTotal": "$49.827 billion"
     },
     "gini": "34.3",
     "currency": "Lek",
@@ -66,7 +66,7 @@ exports.countriesData = {
     "officialLanguages": [
       "Portuguese"
     ],
-    "population": "33,086,278",
+    "population": "34,795,287",
     "gdp": {
       "pppTotal": "$213.034 billion"
     },
@@ -112,7 +112,7 @@ exports.countriesData = {
     "officialLanguages": [
       "Armenian"
     ],
-    "population": "2,963,900",
+    "population": "3,000,756",
     "gdp": {
       "pppTotal": "$43.550 billion"
     },
@@ -126,7 +126,7 @@ exports.countriesData = {
     "countryName": "Australia",
     "wikiLink": "https://en.wikipedia.org/wiki/Australia",
     "officialLanguages": [],
-    "population": "25,962,000",
+    "population": "25,973,000",
     "gdp": {
       "pppTotal": "$1.605 trillion"
     },
@@ -158,7 +158,7 @@ exports.countriesData = {
     "officialLanguages": [
       "Azerbaijani"
     ],
-    "population": "10,164,464",
+    "population": "10,353,296",
     "gdp": {
       "pppTotal": "$160.713 billion"
     },
@@ -239,7 +239,7 @@ exports.countriesData = {
       "Belarusian",
       "Russian"
     ],
-    "population": "9,255,524",
+    "population": "9,413,505",
     "gdp": {
       "pppTotal": "$185.889 billion"
     },
@@ -273,7 +273,7 @@ exports.countriesData = {
     "officialLanguages": [
       "English"
     ],
-    "population": "419,199",
+    "population": "412,387",
     "gdp": {
       "pppTotal": "$3.484 billion"
     },
@@ -289,7 +289,7 @@ exports.countriesData = {
     "officialLanguages": [
       "French"
     ],
-    "population": "11,733,059",
+    "population": "13,754,688",
     "gdp": {
       "pppTotal": "$29.918 billion"
     },
@@ -325,7 +325,7 @@ exports.countriesData = {
       "Guarani",
       "and 33 others (all Indigenous languages)"
     ],
-    "population": "11,428,245",
+    "population": "12,054,379",
     "gdp": {
       "pppTotal": "$89.018 billion"
     },
@@ -333,7 +333,7 @@ exports.countriesData = {
     "currency": "Boliviano",
     "drivingSide": "right",
     "capital": "La Paz",
-    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Flag_of_Bolivia_%28state%29.svg/125px-Flag_of_Bolivia_%28state%29.svg.png"
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Bolivia.svg/125px-Flag_of_Bolivia.svg.png"
   },
   "bosnia and herzegovina": {
     "countryName": "Bosnia and Herzegovina",
@@ -359,7 +359,7 @@ exports.countriesData = {
     "officialLanguages": [
       "English"
     ],
-    "population": "2,588,423",
+    "population": "2,384,246",
     "gdp": {
       "pppTotal": "$43.474 billion"
     },
@@ -375,7 +375,7 @@ exports.countriesData = {
     "officialLanguages": [
       "Portuguese"
     ],
-    "population": "214,047,375",
+    "population": "217,240,060",
     "gdp": {
       "pppTotal": "$3.585 trillion"
     },
@@ -423,7 +423,7 @@ exports.countriesData = {
     "officialLanguages": [
       "French"
     ],
-    "population": "21,510,181",
+    "population": "21,935,389",
     "gdp": {
       "pppTotal": "$2.036 billion"
     },
@@ -509,7 +509,7 @@ exports.countriesData = {
     ],
     "population": "483,628",
     "gdp": {
-      "pppTotal": "$4.323 billion"
+      "pppTotal": "$4.413 billion"
     },
     "gini": "42.4",
     "currency": "Cape Verdean escudo",
@@ -524,7 +524,7 @@ exports.countriesData = {
       "French",
       "Sango"
     ],
-    "population": "4,829,764",
+    "population": "5,454,533",
     "gdp": {
       "pppTotal": "$4.262 billion"
     },
@@ -541,7 +541,7 @@ exports.countriesData = {
       "Arabic",
       "French"
     ],
-    "population": "16,244,513",
+    "population": "17,963,211",
     "gdp": {
       "pppTotal": "$30 billion"
     },
@@ -555,7 +555,7 @@ exports.countriesData = {
     "countryName": "Chile",
     "wikiLink": "https://en.wikipedia.org/wiki/Chile",
     "officialLanguages": [],
-    "population": "17,574,003",
+    "population": "18,430,408",
     "gdp": {
       "pppTotal": "$568.319 billion"
     },
@@ -571,7 +571,7 @@ exports.countriesData = {
     "officialLanguages": [
       "Standard Chinese"
     ],
-    "population": "1,411,778,724",
+    "population": "1,410,539,758",
     "gdp": {
       "pppTotal": "$30.18 trillion"
     },
@@ -587,7 +587,7 @@ exports.countriesData = {
     "officialLanguages": [
       "Spanish"
     ],
-    "population": "50,372,424",
+    "population": "49,059,221",
     "gdp": {
       "pppTotal": "$940.589 billion"
     },
@@ -653,9 +653,9 @@ exports.countriesData = {
     "officialLanguages": [
       "Spanish"
     ],
-    "population": "5,094,118",
+    "population": "5,204,411",
     "gdp": {
-      "pppTotal": "$95.791 billion"
+      "pppTotal": "$128.134 billion"
     },
     "gini": "49.7",
     "currency": "Costa Rican colón",
@@ -685,7 +685,7 @@ exports.countriesData = {
     "officialLanguages": [
       "Spanish"
     ],
-    "population": "11,113,215",
+    "population": "11,008,112",
     "gdp": {
       "pppTotal": "US$254.865 billion"
     },
@@ -758,7 +758,7 @@ exports.countriesData = {
       "Arabic",
       "French"
     ],
-    "population": "921,804",
+    "population": "957,273",
     "gdp": {
       "pppTotal": "$3.974 billion"
     },
@@ -823,11 +823,11 @@ exports.countriesData = {
     "officialLanguages": [
       "Spanish"
     ],
-    "population": "17,715,822",
+    "population": "17,289,554",
     "gdp": {
       "pppTotal": "$202.043 billion"
     },
-    "gini": "45.4",
+    "gini": "47.3",
     "currency": "United States dollar",
     "drivingSide": "right",
     "capital": "Quito",
@@ -839,7 +839,7 @@ exports.countriesData = {
     "officialLanguages": [
       "Arabic"
     ],
-    "population": "102,674,145",
+    "population": "107,770,524",
     "gdp": {
       "pppTotal": "$1.493 trillion"
     },
@@ -855,7 +855,7 @@ exports.countriesData = {
     "officialLanguages": [
       "Spanish"
     ],
-    "population": "6,830,000",
+    "population": "6,568,745",
     "gdp": {
       "pppTotal": "$57.95 billion"
     },
@@ -887,7 +887,7 @@ exports.countriesData = {
     "countryName": "Eritrea",
     "wikiLink": "https://en.wikipedia.org/wiki/Eritrea",
     "officialLanguages": [],
-    "population": "3.6-6.7 million",
+    "population": "6,209,262",
     "gdp": {
       "pppTotal": "$6.88 billion"
     },
@@ -940,7 +940,7 @@ exports.countriesData = {
       "Somali",
       "Tigrinya"
     ],
-    "population": "123,379,924",
+    "population": "113,656,596",
     "gdp": {
       "pppTotal": "$306.4 billion"
     },
@@ -960,7 +960,7 @@ exports.countriesData = {
     ],
     "population": "926,276",
     "gdp": {
-      "pppTotal": "$9.112 billion"
+      "pppTotal": "$12.370 billion"
     },
     "gini": "36.4",
     "currency": "Fijian dollar",
@@ -1023,7 +1023,7 @@ exports.countriesData = {
     "officialLanguages": [
       "English"
     ],
-    "population": "2,173,999",
+    "population": "2,413,403",
     "gdp": {
       "pppTotal": "$5.420 billion"
     },
@@ -1039,7 +1039,7 @@ exports.countriesData = {
     "officialLanguages": [
       "Georgian"
     ],
-    "population": "3,688,647",
+    "population": "4,935,518",
     "gdp": {
       "pppTotal": "$61.58 billion"
     },
@@ -1087,7 +1087,7 @@ exports.countriesData = {
     "officialLanguages": [
       "Greek"
     ],
-    "population": "10,395,313",
+    "population": "10,432,481",
     "gdp": {
       "pppTotal": "$378.693 billion"
     },
@@ -1119,7 +1119,7 @@ exports.countriesData = {
     "officialLanguages": [
       "Spanish"
     ],
-    "population": "17,263,239",
+    "population": "17,703,190",
     "gdp": {
       "pppTotal": "$145.249 billion"
     },
@@ -1135,7 +1135,7 @@ exports.countriesData = {
     "officialLanguages": [
       "French"
     ],
-    "population": "13,531,906",
+    "population": "13,237,832",
     "gdp": {
       "pppTotal": "$26.451 billion"
     },
@@ -1151,7 +1151,7 @@ exports.countriesData = {
     "officialLanguages": [
       "Portuguese"
     ],
-    "population": "1,726,000",
+    "population": "2,026,778",
     "gdp": {
       "pppTotal": "$3.8 billion"
     },
@@ -1167,7 +1167,7 @@ exports.countriesData = {
     "officialLanguages": [
       "English"
     ],
-    "population": "743,700",
+    "population": "789,683",
     "gdp": {
       "pppTotal": "$30.287 billion"
     },
@@ -1184,7 +1184,7 @@ exports.countriesData = {
       "French",
       "Haitian Creole"
     ],
-    "population": "11,439,646",
+    "population": "11,334,637",
     "gdp": {
       "pppTotal": "$34.189 billion"
     },
@@ -1200,7 +1200,7 @@ exports.countriesData = {
     "officialLanguages": [
       "Spanish"
     ],
-    "population": "10,278,345",
+    "population": "9,459,440",
     "gdp": {
       "pppTotal": "$49.010 billion"
     },
@@ -1218,7 +1218,7 @@ exports.countriesData = {
     ],
     "population": "9,749,763",
     "gdp": {
-      "pppTotal": "$359.901 billion"
+      "pppTotal": "$398.278 billion"
     },
     "gini": "28.3",
     "currency": "Forint",
@@ -1249,7 +1249,7 @@ exports.countriesData = {
       "Hindi",
       "English"
     ],
-    "population": "1,407,563,842",
+    "population": "1,389,637,446",
     "gdp": {
       "pppTotal": "$11.745 trillion"
     },
@@ -1265,11 +1265,11 @@ exports.countriesData = {
     "officialLanguages": [
       "Indonesian"
     ],
-    "population": "275,773,800",
+    "population": "277,329,163",
     "gdp": {
-      "pppTotal": "US$4.00 trillion"
+      "pppTotal": "US$3,995 trillion"
     },
-    "gini": "38.2",
+    "gini": "37.3",
     "currency": "Indonesian rupiah",
     "drivingSide": "left",
     "capital": "Jakarta",
@@ -1281,7 +1281,7 @@ exports.countriesData = {
     "officialLanguages": [
       "Persian"
     ],
-    "population": "83,183,741",
+    "population": "86,758,304",
     "gdp": {
       "pppTotal": "$1.573 trillion"
     },
@@ -1298,7 +1298,7 @@ exports.countriesData = {
       "Arabic",
       "Kurdish"
     ],
-    "population": "44,222,503",
+    "population": "40,462,701",
     "gdp": {
       "pppTotal": "$512.926\t billion"
     },
@@ -1331,7 +1331,7 @@ exports.countriesData = {
     "officialLanguages": [
       "Hebrew"
     ],
-    "population": "9,572,540",
+    "population": "8,914,885",
     "gdp": {
       "pppTotal": "$478.01 billion"
     },
@@ -1377,9 +1377,9 @@ exports.countriesData = {
     "countryName": "Jamaica",
     "wikiLink": "https://en.wikipedia.org/wiki/Jamaica",
     "officialLanguages": [
-      "Jamaican English"
+      "English"
     ],
-    "population": "2,726,667",
+    "population": "2,818,596",
     "gdp": {
       "pppTotal": "$26.981 billion"
     },
@@ -1393,7 +1393,7 @@ exports.countriesData = {
     "countryName": "Japan",
     "wikiLink": "https://en.wikipedia.org/wiki/Japan",
     "officialLanguages": [],
-    "population": "125,927,902",
+    "population": "124,214,766",
     "gdp": {
       "pppTotal": "$6.110 trillion"
     },
@@ -1423,16 +1423,17 @@ exports.countriesData = {
     "countryName": "Kazakhstan",
     "wikiLink": "https://en.wikipedia.org/wiki/Kazakhstan",
     "officialLanguages": [
-      "Kazakh"
+      "Kazakh",
+      "Russian"
     ],
-    "population": "19,122,423",
+    "population": "19,398,331",
     "gdp": {
       "pppTotal": "$569.813 billion"
     },
     "gini": "27.5",
     "currency": "Tenge",
     "drivingSide": "right",
-    "capital": "Nur-Sultan",
+    "capital": "Astana",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/135px-Flag_of_Kazakhstan.svg.png"
   },
   "kenya": {
@@ -1442,7 +1443,7 @@ exports.countriesData = {
       "English",
       "Swahili"
     ],
-    "population": "54,985,698",
+    "population": "55,864,655",
     "gdp": {
       "pppTotal": "$333.268 billion"
     },
@@ -1464,7 +1465,7 @@ exports.countriesData = {
       "pppTotal": "$255 million"
     },
     "gini": "",
-    "currency": "[10]",
+    "currency": "Australian dollar",
     "drivingSide": "left",
     "capital": "South Tarawa",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kiribati.svg/125px-Flag_of_Kiribati.svg.png"
@@ -1510,12 +1511,12 @@ exports.countriesData = {
     "officialLanguages": [
       "Arabic"
     ],
-    "population": "4,420,110",
+    "population": "4460000",
     "gdp": {
       "pppTotal": "$245.182  billion"
     },
     "gini": "",
-    "currency": "",
+    "currency": "Kuwaiti dinar",
     "drivingSide": "right",
     "capital": "Kuwait City",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Flag_of_Kuwait.svg/125px-Flag_of_Kuwait.svg.png"
@@ -1527,11 +1528,11 @@ exports.countriesData = {
       "Kyrgyz",
       "Russian"
     ],
-    "population": "6,997.000",
+    "population": "6,071,750",
     "gdp": {
       "pppTotal": "$37.79 billion"
     },
-    "gini": "27.7",
+    "gini": "29.0",
     "currency": "Kyrgyzstani som",
     "drivingSide": "right",
     "capital": "Bishkek",
@@ -1559,7 +1560,7 @@ exports.countriesData = {
     "officialLanguages": [
       "Latvian"
     ],
-    "population": "1,907,675",
+    "population": "1,842,226",
     "gdp": {
       "pppTotal": "$70.320 billion"
     },
@@ -1608,7 +1609,7 @@ exports.countriesData = {
     "officialLanguages": [
       "English"
     ],
-    "population": "5,214,030",
+    "population": "5,358,483",
     "gdp": {
       "pppTotal": "$6.469 billion"
     },
@@ -1656,7 +1657,7 @@ exports.countriesData = {
     "officialLanguages": [
       "Lithuanian"
     ],
-    "population": "2,832,718",
+    "population": "2,835,988",
     "gdp": {
       "pppTotal": "$129 billion"
     },
@@ -1687,7 +1688,7 @@ exports.countriesData = {
       "Malagasy",
       "French"
     ],
-    "population": "28,427,328",
+    "population": "29,611,714",
     "gdp": {
       "pppTotal": "$45.948 billion"
     },
@@ -1771,7 +1772,7 @@ exports.countriesData = {
     ],
     "population": "519,562",
     "gdp": {
-      "pppTotal": "$22.802  billion"
+      "pppTotal": "$28.486  billion"
     },
     "gini": "28.0",
     "currency": "Euro",
@@ -1830,7 +1831,7 @@ exports.countriesData = {
     "countryName": "Mexico",
     "wikiLink": "https://en.wikipedia.org/wiki/Mexico",
     "officialLanguages": [],
-    "population": "126,014,024",
+    "population": "129,150,971",
     "gdp": {
       "pppTotal": "$2.715 trillion"
     },
@@ -1863,7 +1864,7 @@ exports.countriesData = {
       "Romanian",
       "Moldovan"
     ],
-    "population": "2,597,100",
+    "population": "3,287,326",
     "gdp": {
       "pppTotal": "$39.855\tbillion"
     },
@@ -1926,9 +1927,9 @@ exports.countriesData = {
     "wikiLink": "https://en.wikipedia.org/wiki/Morocco",
     "officialLanguages": [
       "Arabic",
-      "Tamazight"
+      "Berber"
     ],
-    "population": "36,733,685",
+    "population": "36,746,849",
     "gdp": {
       "pppTotal": "$331.542 billion"
     },
@@ -1960,7 +1961,7 @@ exports.countriesData = {
     "officialLanguages": [
       "Burmese"
     ],
-    "population": "51,486,253",
+    "population": "57,526,449",
     "gdp": {
       "pppTotal": "$243.420 billion"
     },
@@ -2000,7 +2001,7 @@ exports.countriesData = {
     "gini": "",
     "currency": "Australian dollar",
     "drivingSide": "left",
-    "capital": "de jure",
+    "capital": "",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Flag_of_Nauru.svg/125px-Flag_of_Nauru.svg.png"
   },
   "nepal": {
@@ -2043,7 +2044,7 @@ exports.countriesData = {
       "Māori",
       "NZ Sign Language"
     ],
-    "population": "5,128,130",
+    "population": "5,129,290",
     "gdp": {
       "pppTotal": "$260.122 billion"
     },
@@ -2059,7 +2060,7 @@ exports.countriesData = {
     "officialLanguages": [
       "Spanish"
     ],
-    "population": "6,486,201",
+    "population": "6,301,880",
     "gdp": {
       "pppTotal": "$35.757 billion"
     },
@@ -2075,7 +2076,7 @@ exports.countriesData = {
     "officialLanguages": [
       "French"
     ],
-    "population": "24,112,753",
+    "population": "24,484,587",
     "gdp": {
       "pppTotal": "$23.475 billion"
     },
@@ -2213,7 +2214,7 @@ exports.countriesData = {
     "officialLanguages": [
       "Spanish"
     ],
-    "population": "4,379,039",
+    "population": "4,337,768",
     "gdp": {
       "pppTotal": "$128.500 billion"
     },
@@ -2249,7 +2250,7 @@ exports.countriesData = {
       "Spanish",
       "Guarani"
     ],
-    "population": "7,359,000",
+    "population": "7,356,409",
     "gdp": {
       "pppTotal": "$101.075 billion"
     },
@@ -2268,7 +2269,7 @@ exports.countriesData = {
       "Aymara",
       "Other Indigenous languages"
     ],
-    "population": "34,294,231",
+    "population": "32,275,736",
     "gdp": {
       "pppTotal": "$513.715 billion"
     },
@@ -2285,7 +2286,7 @@ exports.countriesData = {
       "Filipino",
       "English"
     ],
-    "population": "109,991,095",
+    "population": "114,597,229",
     "gdp": {
       "pppTotal": "$1.0 trillion"
     },
@@ -2303,7 +2304,7 @@ exports.countriesData = {
     ],
     "population": "38,179,800",
     "gdp": {
-      "pppTotal": "$1.525 trillion"
+      "pppTotal": "$1.575 trillion"
     },
     "gini": "27.2",
     "currency": "Złoty",
@@ -2365,7 +2366,7 @@ exports.countriesData = {
     "officialLanguages": [
       "Russian"
     ],
-    "population": "145,478,097",
+    "population": "145,864,296",
     "gdp": {
       "pppTotal": "$4.365 trillion"
     },
@@ -2467,7 +2468,7 @@ exports.countriesData = {
     ],
     "population": "33,600",
     "gdp": {
-      "pppTotal": "$2.09 billion"
+      "pppTotal": "$2.39 billion"
     },
     "gini": "",
     "currency": "Euro",
@@ -2513,7 +2514,7 @@ exports.countriesData = {
     "officialLanguages": [
       "French"
     ],
-    "population": "17,196,308",
+    "population": "17,923,036",
     "gdp": {
       "pppTotal": "$66.438 billion"
     },
@@ -2563,7 +2564,7 @@ exports.countriesData = {
     "officialLanguages": [
       "English"
     ],
-    "population": "8,059,155",
+    "population": "8,692,606",
     "gdp": {
       "pppTotal": "$12.177 billion"
     },
@@ -2600,7 +2601,7 @@ exports.countriesData = {
     ],
     "population": "5,460,185",
     "gdp": {
-      "pppTotal": "$203.243 billion"
+      "pppTotal": "$211.119 billion"
     },
     "gini": "22.8",
     "currency": "Euro",
@@ -2704,7 +2705,7 @@ exports.countriesData = {
     "officialLanguages": [
       "English"
     ],
-    "population": "12,778,250",
+    "population": "11,544,905",
     "gdp": {
       "pppTotal": "$18.435 billion"
     },
@@ -2754,7 +2755,7 @@ exports.countriesData = {
       "Arabic",
       "English"
     ],
-    "population": "45,709,353",
+    "population": "47,958,856",
     "gdp": {
       "pppTotal": "$203.040 billion"
     },
@@ -2770,7 +2771,7 @@ exports.countriesData = {
     "officialLanguages": [
       "Dutch"
     ],
-    "population": "612,985",
+    "population": "632,638",
     "gdp": {
       "pppTotal": "$9.044 billion"
     },
@@ -2806,12 +2807,12 @@ exports.countriesData = {
     ],
     "population": "8,636,896",
     "gdp": {
-      "pppTotal": "$584 billion"
+      "pppTotal": "$739.49 billion"
     },
     "gini": "29.7",
     "currency": "Swiss franc",
     "drivingSide": "right",
-    "capital": "de jure",
+    "capital": "",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/125px-Flag_of_Switzerland.svg.png"
   },
   "syria": {
@@ -2820,7 +2821,7 @@ exports.countriesData = {
     "officialLanguages": [
       "Arabic"
     ],
-    "population": "22,142,061",
+    "population": "21,563,800",
     "gdp": {
       "pppTotal": "$50.28 billion"
     },
@@ -2837,9 +2838,9 @@ exports.countriesData = {
       "Tajik",
       "Russian"
     ],
-    "population": "10,004,762",
+    "population": "9,119,347",
     "gdp": {
-      "pppTotal": "$30.547 billion"
+      "pppTotal": "$45.540 billion"
     },
     "gini": "34",
     "currency": "Somoni",
@@ -2870,7 +2871,7 @@ exports.countriesData = {
     "officialLanguages": [
       "Thai"
     ],
-    "population": "66,171,439",
+    "population": "69,648,117",
     "gdp": {
       "pppTotal": "$1.475 trillion"
     },
@@ -2900,7 +2901,8 @@ exports.countriesData = {
     "countryName": "Tonga",
     "wikiLink": "https://en.wikipedia.org/wiki/Tonga",
     "officialLanguages": [
-      "Tongan"
+      "Tongan",
+      "English"
     ],
     "population": "100,209",
     "gdp": {
@@ -2918,7 +2920,7 @@ exports.countriesData = {
     "officialLanguages": [
       "English"
     ],
-    "population": "1,367,558",
+    "population": "1,405,646",
     "gdp": {
       "pppTotal": "$45.148 billion"
     },
@@ -2966,12 +2968,12 @@ exports.countriesData = {
     "officialLanguages": [
       "Turkmen"
     ],
-    "population": "6,031,187",
+    "population": "5,636,011",
     "gdp": {
       "pppTotal": "$112.659 billion"
     },
     "gini": "40.8medium",
-    "currency": "Turkmenistan manat",
+    "currency": "Manat",
     "drivingSide": "right",
     "capital": "Ashgabat",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Turkmenistan.svg/110px-Flag_of_Turkmenistan.svg.png"
@@ -3079,7 +3081,7 @@ exports.countriesData = {
       "Spanish",
       "Uruguayan Sign Language"
     ],
-    "population": "3,518,552",
+    "population": "3,407,213",
     "gdp": {
       "pppTotal": "$94.783 billion"
     },
@@ -3095,12 +3097,12 @@ exports.countriesData = {
     "officialLanguages": [
       "Uzbek"
     ],
-    "population": "35,300,000",
+    "population": "31,104,937",
     "gdp": {
-      "pppTotal": "$498 billion"
+      "pppTotal": "$326 billion"
     },
     "gini": "36.7",
-    "currency": "Uzbek sum",
+    "currency": "Uzbek soum",
     "drivingSide": "right",
     "capital": "Tashkent",
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Uzbekistan.svg/125px-Flag_of_Uzbekistan.svg.png"
@@ -3143,7 +3145,7 @@ exports.countriesData = {
     "officialLanguages": [
       "Spanish"
     ],
-    "population": "28,199,867",
+    "population": "29,789,730",
     "gdp": {
       "pppTotal": "$141.946 billion"
     },
@@ -3157,7 +3159,7 @@ exports.countriesData = {
     "countryName": "Vietnam",
     "wikiLink": "https://en.wikipedia.org/wiki/Vietnam",
     "officialLanguages": [],
-    "population": "96,208,984",
+    "population": "103,808,319",
     "gdp": {
       "pppTotal": "$1.278 trillion"
     },
@@ -3173,7 +3175,7 @@ exports.countriesData = {
     "officialLanguages": [
       "Arabic"
     ],
-    "population": "30,491,000",
+    "population": "30,984,689",
     "gdp": {
       "pppTotal": "$65.603 billion"
     },
@@ -3283,7 +3285,7 @@ exports.countriesData = {
     "officialLanguages": [
       "Russian"
     ],
-    "population": "2,302,444",
+    "population": "2,220,500",
     "gdp": {},
     "gini": "",
     "currency": "Russian ruble",
@@ -3300,7 +3302,7 @@ exports.countriesData = {
     ],
     "population": "1,806,279",
     "gdp": {
-      "pppTotal": "$23.524 billion"
+      "pppTotal": "$25.180 billion"
     },
     "gini": "29.0",
     "currency": "Euro",
@@ -3314,7 +3316,7 @@ exports.countriesData = {
     "officialLanguages": [
       "Russian"
     ],
-    "population": "1,400,000",
+    "population": "1,485,300",
     "gdp": {},
     "gini": "",
     "currency": "Russian ruble",
@@ -3374,7 +3376,7 @@ exports.countriesData = {
     "officialLanguages": [
       "Somali"
     ],
-    "population": "4,171,898",
+    "population": "5,741,086",
     "gdp": {
       "pppTotal": "$2.5 billion"
     },
