@@ -33,7 +33,7 @@
     <a href="https://github.com/tdo95/countries-of-the-world-api"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="#">View Demo</a>
+    <a href="https://countries-of-the-world.cyclic.app/">View Demo</a>
     ·
     <a href="https://github.com/tdo95/countries-of-the-world-api/issues">Report Bug</a>
     ·
@@ -89,7 +89,7 @@ Countries of the World is an API that serves social and geographical information
 
 ### About The API
 
-All relevant information about the API such as countries available, endpints, and api properties can be found in the [documentation](https://countries-of-the-world-api-production.up.railway.app/#API).
+All relevant information about the API such as countries available, endpints, and api properties can be found in the [documentation](https://countries-of-the-world.cyclic.app/).
 
 Some countires may not have all property data. Unavailable data properties are represented by an empty value. e.g. empty string values are `''`, empty array values are `[]`.
 
@@ -115,7 +115,7 @@ Data contained in the Countries of the World API was scraped from [Wikipedia](ht
 <!-- GETTING STARTED -->
 ## Getting Started
 
-If you would like to use the Countries of the World API, refer to the [documentation](#) to get started. 
+If you would like to use the Countries of the World API, refer to the [documentation](https://countries-of-the-world.cyclic.app/) to get started. 
 
 To get a local copy of the API up and running follow these simple example steps.
 
